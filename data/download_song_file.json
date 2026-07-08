@@ -121,8 +121,8 @@
 		"singer_name": "初音ミク",
 		"lyrics_composition_name": "すこっぷ",
 		"find_char": "あいろに\n \n アイロニ \n 初音ミク \n すこっぷ",
-		"sing_count": 11,
-		"sing_url": "https://youtu.be/O2yS3hbMZ8g&t=1769s",
+		"sing_count": 12,
+		"sing_url": "https://youtu.be/PYHQtt4RWTE&t=3275s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=アイロニ"
 	},
 	{
@@ -256,8 +256,8 @@
 		"singer_name": "IA",
 		"lyrics_composition_name": "じん,自然の敵P",
 		"find_char": "あやののこうふくりろん\nカゲロウプロジェクト 楽曲\nメカクシティアクターズ　挿入歌\n \n アヤノの幸福理論 \n IA \n じん,自然の敵P",
-		"sing_count": 4,
-		"sing_url": "https://youtu.be/IKyB0Jo11VY&t=5796s",
+		"sing_count": 5,
+		"sing_url": "https://youtu.be/PYHQtt4RWTE&t=4623s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=アヤノの幸福理論"
 	},
 	{
@@ -462,7 +462,7 @@
 		"song_title": "ウィーアー!",
 		"singer_name": "きただにひろし",
 		"lyrics_composition_name": "藤林聖子,田中公平",
-		"find_char": "うぃーあー\nONE PIECE\nオープニングテーマ\n \n ウィーアー! \n きただにひろし \n 藤林聖子,田中公平",
+		"find_char": "うぃーあー\nONE PIECE ワンピース\nオープニングテーマ\n \n ウィーアー! \n きただにひろし \n 藤林聖子,田中公平",
 		"sing_count": 1,
 		"sing_url": "https://youtu.be/V0O28J1zd9A&t=3069s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ウィーアー!"
@@ -499,8 +499,8 @@
 		"singer_name": "Supercell",
 		"lyrics_composition_name": "ryo",
 		"find_char": "うたかたはなび\nNARUTO -ナルト- 疾風伝\nエンディングテーマ\n \n うたかた花火 \n Supercell \n ryo",
-		"sing_count": 6,
-		"sing_url": "https://youtu.be/r9cYD2bOCnU&t=9356s",
+		"sing_count": 7,
+		"sing_url": "https://youtu.be/PYHQtt4RWTE&t=4131s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=うたかた花火"
 	},
 	{
@@ -1398,7 +1398,7 @@
 		"song_title": "ココロのちず",
 		"singer_name": "BOYSTYLE",
 		"lyrics_composition_name": "ＭＩＺＵＥ,渡辺和紀",
-		"find_char": "こころのちず\nONE PIECE\nオープニングテーマ\n \n ココロのちず \n BOYSTYLE \n ＭＩＺＵＥ,渡辺和紀",
+		"find_char": "こころのちず\nONE PIECE ワンピース\nオープニングテーマ\n \n ココロのちず \n BOYSTYLE \n ＭＩＺＵＥ,渡辺和紀",
 		"sing_count": 1,
 		"sing_url": "https://youtu.be/2OXapXV9C_M&t=1451s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ココロのちず"
@@ -1786,15 +1786,15 @@
 		"singer_name": "初音ミク",
 		"lyrics_composition_name": "ゆうゆ,仮乃スガタ,篠螺悠那",
 		"find_char": "しんかいしょうじょ\n \n 深海少女 \n 初音ミク \n ゆうゆ,仮乃スガタ,篠螺悠那",
-		"sing_count": 11,
-		"sing_url": "https://youtu.be/O2yS3hbMZ8g&t=7802s",
+		"sing_count": 12,
+		"sing_url": "https://youtu.be/PYHQtt4RWTE&t=2844s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=深海少女"
 	},
 	{
 		"song_title": "新時代",
 		"singer_name": "Ado",
 		"lyrics_composition_name": "中田ヤスタカ",
-		"find_char": "しんじだい\nONE PIECE FILM RED 主題歌\nONE PIECE オープニングテーマ\n \n 新時代 \n Ado \n 中田ヤスタカ",
+		"find_char": "しんじだい\nONE PIECE FILM RED 主題歌\nワンピース オープニングテーマ\n \n 新時代 \n Ado \n 中田ヤスタカ",
 		"sing_count": 2,
 		"sing_url": "https://youtu.be/9XMb9bB0WyY&t=2566s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=新時代"
@@ -2331,6 +2331,15 @@
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ダーリンダーリン"
 	},
 	{
+		"song_title": "小さきもの",
+		"singer_name": "林明日香",
+		"lyrics_composition_name": "三浦徳子,山移高寛",
+		"find_char": "ちいさきもの\n劇場版ポケットモンスター アドバンスジェネレーション\n七夜の願い星 ジラーチ\nエンディングテーマ\n \n 小さきもの \n 林明日香 \n 三浦徳子,山移高寛",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/PYHQtt4RWTE&t=5189s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=小さきもの"
+	},
+	{
 		"song_title": "CHE.R.RY",
 		"singer_name": "YUI",
 		"lyrics_composition_name": "YUI",
@@ -2749,8 +2758,8 @@
 		"singer_name": "CUTIE STREET",
 		"lyrics_composition_name": "川谷絵音",
 		"find_char": "ないすだね\n \n ナイスだね \n CUTIE STREET \n 川谷絵音",
-		"sing_count": 1,
-		"sing_url": "https://youtu.be/V0O28J1zd9A&t=1340s",
+		"sing_count": 2,
+		"sing_url": "https://youtu.be/PYHQtt4RWTE&t=1902s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ナイスだね"
 	},
 	{
@@ -2929,8 +2938,8 @@
 		"singer_name": "日野森雫,鏡音レン,花里みのり,桃井愛莉,桐谷遥",
 		"lyrics_composition_name": "MIMI",
 		"find_char": "はぐ\nプロジェクトセカイ カラフルステージ！ feat.初音ミク\nMORE MORE JUMP! 楽曲\n \n はぐ \n 日野森雫,鏡音レン,花里みのり,桃井愛莉,桐谷遥 \n MIMI",
-		"sing_count": 14,
-		"sing_url": "https://youtu.be/IKyB0Jo11VY&t=979s",
+		"sing_count": 15,
+		"sing_url": "https://youtu.be/PYHQtt4RWTE&t=1516s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=はぐ"
 	},
 	{
@@ -3001,8 +3010,8 @@
 		"singer_name": "ヨルシカ",
 		"lyrics_composition_name": "n-buna,ナブナ",
 		"find_char": "はなにぼうれい\n泣きたい私は猫をかぶる\n主題歌\n \n 花に亡霊 \n ヨルシカ \n n-buna,ナブナ",
-		"sing_count": 6,
-		"sing_url": "https://youtu.be/lfjmMwSSwtc&t=7770s",
+		"sing_count": 7,
+		"sing_url": "https://youtu.be/PYHQtt4RWTE&t=1134s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=花に亡霊"
 	},
 	{
@@ -3091,8 +3100,8 @@
 		"singer_name": "初音ミク",
 		"lyrics_composition_name": "ナノウ,月面,コヤマヒデカズ",
 		"find_char": "はろはわゆ\n \n ハロ／ハワユ \n 初音ミク \n ナノウ,月面,コヤマヒデカズ",
-		"sing_count": 9,
-		"sing_url": "https://youtu.be/Wj-U2HYj9Oc&t=611s",
+		"sing_count": 10,
+		"sing_url": "https://youtu.be/PYHQtt4RWTE&t=2354s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ハロ／ハワユ"
 	},
 	{
@@ -3577,8 +3586,8 @@
 		"singer_name": "Uru",
 		"lyrics_composition_name": "Uru",
 		"find_char": "ぷろろーぐ\n中学聖日記\n主題歌\n \n プロローグ \n Uru \n Uru",
-		"sing_count": 10,
-		"sing_url": "https://youtu.be/zXqCNLXG2y8&t=1263s",
+		"sing_count": 11,
+		"sing_url": "https://youtu.be/PYHQtt4RWTE&t=3650s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=プロローグ"
 	},
 	{
@@ -4108,8 +4117,8 @@
 		"singer_name": "癒月",
 		"lyrics_composition_name": "癒月,dai",
 		"find_char": "ゆー\nゲーム ひぐらしのなく頃に解 目明し編 エンディングテーマ\nアニメ ひぐらしのなく頃に卒 エンディングテーマ\n \n you \n 癒月 \n 癒月,dai",
-		"sing_count": 3,
-		"sing_url": "https://youtu.be/r9cYD2bOCnU&t=11088s",
+		"sing_count": 4,
+		"sing_url": "https://youtu.be/PYHQtt4RWTE&t=724s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=you"
 	},
 	{
