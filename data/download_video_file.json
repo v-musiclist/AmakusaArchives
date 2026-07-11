@@ -4,580 +4,663 @@
 		"name": "セカイ",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=5IrZG4jMaGY",
-		"video_image": "https://i.ytimg.com/vi/5IrZG4jMaGY/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/5IrZG4jMaGY/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V002",
 		"name": "スイートマジック",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=jzTASzLDNS4",
-		"video_image": "https://i.ytimg.com/vi/jzTASzLDNS4/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/jzTASzLDNS4/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V003",
 		"name": "ロウワー",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=Pz76oVigCjU",
-		"video_image": "https://i.ytimg.com/vi/Pz76oVigCjU/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/Pz76oVigCjU/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V004",
 		"name": "好き！雪！本気マジック",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=K2ckfhGMbWY",
-		"video_image": "https://i.ytimg.com/vi/K2ckfhGMbWY/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/K2ckfhGMbWY/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V005",
 		"name": "けーきのまほう",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=CMtkglCcG9E",
-		"video_image": "https://i.ytimg.com/vi/CMtkglCcG9E/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/CMtkglCcG9E/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V006",
 		"name": "群青讃歌",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=QhUdWikKM-o",
-		"video_image": "https://i.ytimg.com/vi/QhUdWikKM-o/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/QhUdWikKM-o/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V007",
 		"name": "フォニイ",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=RCHUH3IWeXU",
-		"video_image": "https://i.ytimg.com/vi/RCHUH3IWeXU/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/RCHUH3IWeXU/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V008",
 		"name": "ラヴィ",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=L4fjx5GBxU4",
-		"video_image": "https://i.ytimg.com/vi/L4fjx5GBxU4/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/L4fjx5GBxU4/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V009",
 		"name": "あなたをコンセルヴェ",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=WssRYkBUK-U",
-		"video_image": "https://i.ytimg.com/vi/WssRYkBUK-U/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/WssRYkBUK-U/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V010",
 		"name": "可愛くてごめん",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=xCuUgkc-R6Q",
-		"video_image": "https://i.ytimg.com/vi/xCuUgkc-R6Q/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/xCuUgkc-R6Q/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V011",
 		"name": "アイドル",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=ZzCnt3QCk48",
-		"video_image": "https://i.ytimg.com/vi/ZzCnt3QCk48/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/ZzCnt3QCk48/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V012",
 		"name": "『±0』 ",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=z-EzftF0zqM",
-		"video_image": "https://i.ytimg.com/vi/z-EzftF0zqM/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/z-EzftF0zqM/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V013",
 		"name": "ゆめじゃないよ",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=b0aFbQhVXXM",
-		"video_image": "https://i.ytimg.com/vi/b0aFbQhVXXM/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/b0aFbQhVXXM/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V014",
 		"name": "Queen or Princess?",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=KwFSLKojHDY",
-		"video_image": "https://i.ytimg.com/vi/KwFSLKojHDY/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/KwFSLKojHDY/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V015",
 		"name": "Queen or Princess?",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=9f2teedlspM",
-		"video_image": "https://i.ytimg.com/vi/9f2teedlspM/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/9f2teedlspM/hqdefault.jpg",
+		"video_option": "非公開"
 	},
 	{
 		"video_id": "V016",
 		"name": "Queen or Princess?",
 		"video_setting": "nicovideo",
 		"video_url": "https://www.nicovideo.jp/watch/sm42421980",
-		"video_image": "https://nicovideo.cdn.nimg.jp/thumbnails/42421980/42421980.23024612.L"
+		"video_image": "https://nicovideo.cdn.nimg.jp/thumbnails/42421980/42421980.23024612.L",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V017",
 		"name": "わたしの一番かわいいところ",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=zYm-Gmz2mok",
-		"video_image": "https://i.ytimg.com/vi/zYm-Gmz2mok/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/zYm-Gmz2mok/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V018",
 		"name": "トロピカル☆マーメイド",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=fe0Gn56Fni0",
-		"video_image": "https://i.ytimg.com/vi/fe0Gn56Fni0/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/fe0Gn56Fni0/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V019",
 		"name": "メランコリック",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=zS9vKb4rbus",
-		"video_image": "https://i.ytimg.com/vi/zS9vKb4rbus/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/zS9vKb4rbus/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V020",
 		"name": "ヴァンパイア",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=MIZV-P5TJrs",
-		"video_image": "https://i.ytimg.com/vi/MIZV-P5TJrs/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/MIZV-P5TJrs/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V021",
 		"name": "Journey",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=l1lTUKsEJKU",
-		"video_image": "https://i.ytimg.com/vi/l1lTUKsEJKU/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/l1lTUKsEJKU/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V022",
 		"name": "Black Sugar",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=1y3DqnuzZHY",
-		"video_image": "https://i.ytimg.com/vi/1y3DqnuzZHY/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/1y3DqnuzZHY/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V023",
 		"name": "桜色エピローグ",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=pp5-3kx6vi4",
-		"video_image": "https://i.ytimg.com/vi/pp5-3kx6vi4/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/pp5-3kx6vi4/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V024",
 		"name": "Flyway",
 		"video_setting": "nicovideo",
 		"video_url": "https://www.nicovideo.jp/watch/sm43550816",
-		"video_image": "https://nicovideo.cdn.nimg.jp/thumbnails/43550816/43550816.10233446.L"
+		"video_image": "https://nicovideo.cdn.nimg.jp/thumbnails/43550816/43550816.10233446.L",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V025",
 		"name": "Flyway",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=69ymNvZf5dQ",
-		"video_image": "https://i.ytimg.com/vi/69ymNvZf5dQ/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/69ymNvZf5dQ/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V026",
 		"name": "絆されたいな",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=WLXBrT9CpXA",
-		"video_image": "https://i.ytimg.com/vi/WLXBrT9CpXA/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/WLXBrT9CpXA/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V027",
 		"name": "The Binary Star",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=9oBLnrnxhCg",
-		"video_image": "https://i.ytimg.com/vi/9oBLnrnxhCg/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/9oBLnrnxhCg/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V028",
 		"name": "ぷらすいちど",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=sx66vQYAlU0",
-		"video_image": "https://i.ytimg.com/vi/sx66vQYAlU0/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/sx66vQYAlU0/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V029",
 		"name": "CHOOSE ME!!",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=VGP3mVvgUgs",
-		"video_image": "https://i.ytimg.com/vi/VGP3mVvgUgs/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/VGP3mVvgUgs/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V030",
 		"name": "エスパーエスパー",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=-q2Mhg6hZF8",
-		"video_image": "https://i.ytimg.com/vi/-q2Mhg6hZF8/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/-q2Mhg6hZF8/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V031",
 		"name": "Blessing",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=nrNOWo6gzqM",
-		"video_image": "https://i.ytimg.com/vi/nrNOWo6gzqM/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/nrNOWo6gzqM/hqdefault.jpg",
+		"video_option": "非公開"
 	},
 	{
 		"video_id": "V032",
 		"name": "Where shall we go?",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=2EAjWCsyDLc",
-		"video_image": "https://i.ytimg.com/vi/2EAjWCsyDLc/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/2EAjWCsyDLc/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V033",
 		"name": "ブロッケンスワン",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=OHpbaAcr5QQ",
-		"video_image": "https://i.ytimg.com/vi/OHpbaAcr5QQ/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/OHpbaAcr5QQ/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V034",
 		"name": "白い雪のプリンセスは",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=364_Hlic3Vc",
-		"video_image": "https://i.ytimg.com/vi/364_Hlic3Vc/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/364_Hlic3Vc/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V035",
 		"name": "ダーリンダーリン",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=twkU9IS55E0",
-		"video_image": "https://i.ytimg.com/vi/twkU9IS55E0/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/twkU9IS55E0/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V036",
 		"name": "ラッキーカラー",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=I0aS7O2lPYk",
-		"video_image": "https://i.ytimg.com/vi/I0aS7O2lPYk/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/I0aS7O2lPYk/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V037",
 		"name": "恋はア・ラ・モード",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=zRYzyT0hwCA",
-		"video_image": "https://i.ytimg.com/vi/zRYzyT0hwCA/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/zRYzyT0hwCA/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V038",
 		"name": "NEO",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=b1erWf_7O8s",
-		"video_image": "https://i.ytimg.com/vi/b1erWf_7O8s/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/b1erWf_7O8s/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V039",
 		"name": "サインはB",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=_rBHWteND3c",
-		"video_image": "https://i.ytimg.com/vi/_rBHWteND3c/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/_rBHWteND3c/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V040",
 		"name": "Angelic Angel",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=iiaZUO2q19g",
-		"video_image": "https://i.ytimg.com/vi/iiaZUO2q19g/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/iiaZUO2q19g/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V041",
 		"name": "桜色エピローグ",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=3Ja1D83iUxQ",
-		"video_image": "https://i.ytimg.com/vi/3Ja1D83iUxQ/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/3Ja1D83iUxQ/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V042",
 		"name": "POP IN 2",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=SIpL1Y6OHSw",
-		"video_image": "https://i.ytimg.com/vi/SIpL1Y6OHSw/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/SIpL1Y6OHSw/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V043",
 		"name": "magnet",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=JESBdjMyzIg",
-		"video_image": "https://i.ytimg.com/vi/JESBdjMyzIg/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/JESBdjMyzIg/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V044",
 		"name": "オルターエゴ",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=AGHNsTjR2Ns",
-		"video_image": "https://i.ytimg.com/vi/AGHNsTjR2Ns/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/AGHNsTjR2Ns/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V045",
 		"name": "ボトルケーキ",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=CLdlrV9Cw0Q",
-		"video_image": "https://i.ytimg.com/vi/CLdlrV9Cw0Q/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/CLdlrV9Cw0Q/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V046",
 		"name": "UNDEAD",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=ONjiORnBTa4",
-		"video_image": "https://i.ytimg.com/vi/ONjiORnBTa4/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/ONjiORnBTa4/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V047",
 		"name": "ラストリゾート",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=LgRMKbDet1o",
-		"video_image": "https://i.ytimg.com/vi/LgRMKbDet1o/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/LgRMKbDet1o/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V048",
 		"name": "モエチャッカファイア",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=CShtpcVV694",
-		"video_image": "https://i.ytimg.com/vi/CShtpcVV694/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/CShtpcVV694/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V049",
 		"name": "脳内革命ガール",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=MHvcJj31rp8",
-		"video_image": "https://i.ytimg.com/vi/MHvcJj31rp8/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/MHvcJj31rp8/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V050",
 		"name": "メルティメロディー",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=4x7t9451IwA",
-		"video_image": "https://i.ytimg.com/vi/4x7t9451IwA/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/4x7t9451IwA/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V051",
 		"name": "アイワナムチュー",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=k4mG1g7Cc2o",
-		"video_image": "https://i.ytimg.com/vi/k4mG1g7Cc2o/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/k4mG1g7Cc2o/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V052",
 		"name": "花瓶に触れた",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=OrsYy_pLYcA",
-		"video_image": "https://i.ytimg.com/vi/OrsYy_pLYcA/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/OrsYy_pLYcA/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V053",
 		"name": "ももいろの鍵",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=pZze2ig4HJY",
-		"video_image": "https://i.ytimg.com/vi/pZze2ig4HJY/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/pZze2ig4HJY/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V054",
 		"name": "さよならプリンセス",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=Ib-5vy9BRZw",
-		"video_image": "https://i.ytimg.com/vi/Ib-5vy9BRZw/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/Ib-5vy9BRZw/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V055",
 		"name": "サマータイムレコード",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=H8f5Xad7GUk",
-		"video_image": "https://i.ytimg.com/vi/H8f5Xad7GUk/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/H8f5Xad7GUk/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V056",
 		"name": "キミと僕の歌",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=jB0NbcCf1V8",
-		"video_image": "https://i.ytimg.com/vi/jB0NbcCf1V8/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/jB0NbcCf1V8/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V057",
 		"name": "Delicious Delivery",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=U0e4VNq9b9k",
-		"video_image": "https://i.ytimg.com/vi/U0e4VNq9b9k/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/U0e4VNq9b9k/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V058",
 		"name": "Connected",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=894Y_xwFHpw",
-		"video_image": "https://i.ytimg.com/vi/894Y_xwFHpw/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/894Y_xwFHpw/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V059",
 		"name": "点描の唄",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=vgLfa0Xgd1w",
-		"video_image": "https://i.ytimg.com/vi/vgLfa0Xgd1w/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/vgLfa0Xgd1w/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V060",
 		"name": "ハローセカイ",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=VPwzVxcNReY",
-		"video_image": "https://i.ytimg.com/vi/VPwzVxcNReY/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/VPwzVxcNReY/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V061",
 		"name": "NEW KAWAII",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=jjQW5imVFdI",
-		"video_image": "https://i.ytimg.com/vi/jjQW5imVFdI/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/jjQW5imVFdI/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V062",
 		"name": "アイワナムチュー",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=UP1pH-iSIpM",
-		"video_image": "https://i.ytimg.com/vi/UP1pH-iSIpM/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/UP1pH-iSIpM/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V063",
 		"name": "春嵐",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=o3Kwz6FEfNg",
-		"video_image": "https://i.ytimg.com/vi/o3Kwz6FEfNg/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/o3Kwz6FEfNg/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V064",
 		"name": "仮装狂騒曲",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=MYHJvYPuDjk",
-		"video_image": "https://i.ytimg.com/vi/MYHJvYPuDjk/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/MYHJvYPuDjk/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V065",
 		"name": "トリックOR鶏肉",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=NXQdKcFvI-Y",
-		"video_image": "https://i.ytimg.com/vi/NXQdKcFvI-Y/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/NXQdKcFvI-Y/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V066",
 		"name": "かわいいだけじゃだめですか?",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=NjAB0k7Ces4",
-		"video_image": "https://i.ytimg.com/vi/NjAB0k7Ces4/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/NjAB0k7Ces4/hqdefault.jpg",
+		"video_option": "メンバー限定"
 	},
 	{
 		"video_id": "V067",
 		"name": "みらくるぷりんせす",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=NdtSJiEda_g",
-		"video_image": "https://i.ytimg.com/vi/NdtSJiEda_g/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/NdtSJiEda_g/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V068",
 		"name": "雨とペトラ",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=wkXl_5zKa-s",
-		"video_image": "https://i.ytimg.com/vi/wkXl_5zKa-s/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/wkXl_5zKa-s/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V069",
 		"name": "シネマ",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=kLK1UXekP6M",
-		"video_image": "https://i.ytimg.com/vi/kLK1UXekP6M/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/kLK1UXekP6M/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V070",
 		"name": "NEW KAWAII",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=XaBj5MprLQI",
-		"video_image": "https://i.ytimg.com/vi/XaBj5MprLQI/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/XaBj5MprLQI/hqdefault.jpg",
+		"video_option": "メンバー限定"
 	},
 	{
 		"video_id": "V071",
 		"name": "硝子の花園",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=y7fGH0cyY8E",
-		"video_image": "https://i.ytimg.com/vi/y7fGH0cyY8E/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/y7fGH0cyY8E/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V072",
 		"name": "帝国少女",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=PWbrnutSu2Y",
-		"video_image": "https://i.ytimg.com/vi/PWbrnutSu2Y/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/PWbrnutSu2Y/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V073",
 		"name": "キューにストップできません！",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=elw-2g8pjok",
-		"video_image": "https://i.ytimg.com/vi/elw-2g8pjok/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/elw-2g8pjok/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V074",
 		"name": "ハピチョコ",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=osUEdViSvz0",
-		"video_image": "https://i.ytimg.com/vi/osUEdViSvz0/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/osUEdViSvz0/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V075",
 		"name": "熱風",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=LCya54V5mfk",
-		"video_image": "https://i.ytimg.com/vi/LCya54V5mfk/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/LCya54V5mfk/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V076",
 		"name": "YAKIMOCHI",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=teoPkZEm-vk",
-		"video_image": "https://i.ytimg.com/vi/teoPkZEm-vk/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/teoPkZEm-vk/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V077",
 		"name": "Booo!",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=tlPLSeTX6i0",
-		"video_image": "https://i.ytimg.com/vi/tlPLSeTX6i0/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/tlPLSeTX6i0/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V078",
 		"name": "必殺あざとポーズ",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=r12GV95VjSQ",
-		"video_image": "https://i.ytimg.com/vi/r12GV95VjSQ/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/r12GV95VjSQ/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V079",
 		"name": "モニタリング (Best Friend Remix)",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=RlcChjsia6g",
-		"video_image": "https://i.ytimg.com/vi/RlcChjsia6g/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/RlcChjsia6g/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V080",
 		"name": "桜ロック",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=dM-yoW8oCAg",
-		"video_image": "https://i.ytimg.com/vi/dM-yoW8oCAg/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/dM-yoW8oCAg/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V081",
 		"name": "ハピチョコ",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=d-GW-iPs_uo",
-		"video_image": "https://i.ytimg.com/vi/d-GW-iPs_uo/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/d-GW-iPs_uo/hqdefault.jpg",
+		"video_option": "メンバー限定"
 	},
 	{
 		"video_id": "V082",
 		"name": "とくべチュ、して",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=iVUsJdV-dA4",
-		"video_image": "https://i.ytimg.com/vi/iVUsJdV-dA4/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/iVUsJdV-dA4/hqdefault.jpg",
+		"video_option": "通常"
 	},
 	{
 		"video_id": "V083",
 		"name": "歩いていくの",
 		"video_setting": "youtube",
 		"video_url": "https://www.youtube.com/watch?v=I1ZI4-TwwfI",
-		"video_image": "https://i.ytimg.com/vi/I1ZI4-TwwfI/hqdefault.jpg"
+		"video_image": "https://i.ytimg.com/vi/I1ZI4-TwwfI/hqdefault.jpg",
+		"video_option": "通常"
 	}
 ]
