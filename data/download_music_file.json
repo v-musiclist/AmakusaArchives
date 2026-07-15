@@ -14667,5 +14667,108 @@
 				"url": "https://youtu.be/PYHQtt4RWTE&t=5189s"
 			}
 		]
+	},
+	{
+		"live_id": "L139",
+		"songs": [
+			{
+				"song_id": "S001",
+				"title": "NEO",
+				"singer": "初音ミク,星乃一歌,花里みのり,小豆沢こはね,天馬司,宵崎奏",
+				"lyrics_composition": "じん,自然の敵P",
+				"url": "https://youtu.be/kjYzSPCmtWs&t=654s"
+			},
+			{
+				"song_id": "S002",
+				"title": "きゅうくらりん",
+				"singer": "可不",
+				"lyrics_composition": "いよわ",
+				"url": "https://youtu.be/kjYzSPCmtWs&t=993s"
+			},
+			{
+				"song_id": "S003",
+				"title": "黒毛和牛上塩タン焼680円",
+				"singer": "大塚愛",
+				"lyrics_composition": "愛",
+				"url": "https://youtu.be/kjYzSPCmtWs&t=1383s"
+			},
+			{
+				"song_id": "S004",
+				"title": "花になって",
+				"singer": "緑黄色社会",
+				"lyrics_composition": "長屋晴子,穴見真吾",
+				"url": "https://youtu.be/kjYzSPCmtWs&t=1843s"
+			},
+			{
+				"song_id": "S005",
+				"title": "ロッタラ ロッタラ",
+				"singer": "Buono!",
+				"lyrics_composition": "岩里祐穂,井上慎二郎",
+				"url": "https://youtu.be/kjYzSPCmtWs&t=2251s"
+			},
+			{
+				"song_id": "S006",
+				"title": "Almond Chocolate",
+				"singer": "ILLIT",
+				"lyrics_composition": "Pdogg,Nakajin,Takahashi Shiho,GHSTLOOP",
+				"url": "https://youtu.be/kjYzSPCmtWs&t=2596s"
+			},
+			{
+				"song_id": "S007",
+				"title": "気まぐれロマンティック",
+				"singer": "いきものがかり",
+				"lyrics_composition": "水野良樹,山下穂尊",
+				"url": "https://youtu.be/kjYzSPCmtWs&t=3034s"
+			},
+			{
+				"song_id": "S008",
+				"title": "倍倍FIGHT!",
+				"singer": "CANDY TUNE",
+				"lyrics_composition": "玉屋2060%",
+				"url": "https://youtu.be/kjYzSPCmtWs&t=3456s"
+			},
+			{
+				"song_id": "S009",
+				"title": "キュートなキューたい",
+				"singer": "CUTIE STREET",
+				"lyrics_composition": "ジンツチハシ.早川博隆.ポケモン音楽歌い隊.宇田川翔",
+				"url": "https://youtu.be/kjYzSPCmtWs&t=4246s"
+			},
+			{
+				"song_id": "S010",
+				"title": "かわいいだけじゃだめですか?",
+				"singer": "CUTIE STREET",
+				"lyrics_composition": "早川博隆,渡邉俊彦",
+				"url": "https://youtu.be/kjYzSPCmtWs&t=4761s"
+			},
+			{
+				"song_id": "S011",
+				"title": "君と夏フェス",
+				"singer": "SHISHAMO",
+				"lyrics_composition": "宮崎朝子",
+				"url": "https://youtu.be/kjYzSPCmtWs&t=5165s"
+			},
+			{
+				"song_id": "S012",
+				"title": "ほうき星",
+				"singer": "ユンナ",
+				"lyrics_composition": "佐藤永麻,田中直",
+				"url": "https://youtu.be/kjYzSPCmtWs&t=5803s"
+			},
+			{
+				"song_id": "S013",
+				"title": "ブルーバード",
+				"singer": "いきものがかり",
+				"lyrics_composition": "水野良樹",
+				"url": "https://youtu.be/kjYzSPCmtWs&t=6150s"
+			},
+			{
+				"song_id": "S014",
+				"title": "夜に駆ける",
+				"singer": "YOASOBI",
+				"lyrics_composition": "Ayase",
+				"url": "https://youtu.be/kjYzSPCmtWs&t=6611s"
+			}
+		]
 	}
 ]
