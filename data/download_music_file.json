@@ -14770,5 +14770,122 @@
 				"url": "https://youtu.be/kjYzSPCmtWs&t=6611s"
 			}
 		]
+	},
+	{
+		"live_id": "L140",
+		"songs": [
+			{
+				"song_id": "S001",
+				"title": "金曜日のおはよう-another story-",
+				"singer": "初音ミク",
+				"lyrics_composition": "HoneyWorks",
+				"url": "https://youtu.be/zx1LrOkk2mI&t=672s"
+			},
+			{
+				"song_id": "S002",
+				"title": "気まぐれメルシィ",
+				"singer": "初音ミク",
+				"lyrics_composition": "八王子P,8#Prince,P*Light,q*Left",
+				"url": "https://youtu.be/zx1LrOkk2mI&t=1139s"
+			},
+			{
+				"song_id": "S003",
+				"title": "RUN！RUN！RUN！",
+				"singer": "大槻マキ",
+				"lyrics_composition": "大槻真希,JUN MORITA",
+				"url": "https://youtu.be/zx1LrOkk2mI&t=1596s"
+			},
+			{
+				"song_id": "S004",
+				"title": "もってけ!セーラーふく",
+				"singer": "泉こなた,柊かがみ,柊つかさ,高良みゆき",
+				"lyrics_composition": "畑亜貴,神前暁",
+				"url": "https://youtu.be/zx1LrOkk2mI&t=2007s"
+			},
+			{
+				"song_id": "S005",
+				"title": "Booo!",
+				"singer": "音街ウナ",
+				"lyrics_composition": "TOKOTOKO,西沢さんP",
+				"url": "https://youtu.be/zx1LrOkk2mI&t=2512s"
+			},
+			{
+				"song_id": "S006",
+				"title": "ワールドワイドワンダー",
+				"singer": "花里みのり,KAITO,桐谷遥,桃井愛莉,日野森雫",
+				"lyrics_composition": "TOKOTOKO,西沢さんP",
+				"url": "https://youtu.be/zx1LrOkk2mI&t=3093s"
+			},
+			{
+				"song_id": "S007",
+				"title": "セカイはまだ始まってすらいない",
+				"singer": "初音ミク,天馬司,鳳えむ,草薙寧々,神代類",
+				"lyrics_composition": "ピノキオピー,ピノキオP",
+				"url": "https://youtu.be/zx1LrOkk2mI&t=3520s"
+			},
+			{
+				"song_id": "S008",
+				"title": "かがみ",
+				"singer": "FRUITS ZIPPER",
+				"lyrics_composition": "ヤマモトショウ",
+				"url": "https://youtu.be/zx1LrOkk2mI&t=3936s"
+			},
+			{
+				"song_id": "S009",
+				"title": "NEW KAWAII",
+				"singer": "FRUITS ZIPPER",
+				"lyrics_composition": "ヤマモトショウ",
+				"url": "https://youtu.be/zx1LrOkk2mI&t=4429s"
+			},
+			{
+				"song_id": "S010",
+				"title": "明日の私に幸あれ",
+				"singer": "ナナヲアカリ",
+				"lyrics_composition": "玉屋2060%,ナナヲアカリ",
+				"url": "https://youtu.be/zx1LrOkk2mI&t=5002s"
+			},
+			{
+				"song_id": "S011",
+				"title": "テレパシ",
+				"singer": "初音ミク",
+				"lyrics_composition": "DECO*27",
+				"url": "https://youtu.be/zx1LrOkk2mI&t=5446s"
+			},
+			{
+				"song_id": "S012",
+				"title": "Journey",
+				"singer": "初音ミク,星乃一歌,小倉唯,花里みのり,小豆沢こはね,天馬司,宵崎奏",
+				"lyrics_composition": "DECO*27",
+				"url": "https://youtu.be/zx1LrOkk2mI&t=5775s"
+			},
+			{
+				"song_id": "S013",
+				"title": "七転八起☆至上主義!",
+				"singer": "KOTOKO",
+				"lyrics_composition": "KOTOKO,C.G mix",
+				"url": "https://youtu.be/zx1LrOkk2mI&t=6235s"
+			},
+			{
+				"song_id": "S014",
+				"title": "ウィーアー!",
+				"singer": "きただにひろし",
+				"lyrics_composition": "藤林聖子,田中公平",
+				"url": "https://youtu.be/zx1LrOkk2mI&t=6690s"
+			},
+			{
+				"song_id": "S015",
+				"title": "空色デイズ",
+				"singer": "中川翔子",
+				"lyrics_composition": "グミ,日向 めぐみ,meg rock,齋藤真也",
+				"url": "https://youtu.be/zx1LrOkk2mI&t=7175s"
+			},
+			{
+				"song_id": "S016",
+				"title": "みらくるぷりんせす",
+				"singer": "天草フラン",
+				"lyrics_composition": "めろくる",
+				"url": "https://youtu.be/zx1LrOkk2mI&t=7721s"
+			}
+		]
 	}
 ]
