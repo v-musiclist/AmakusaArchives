@@ -1551,7 +1551,7 @@
 		"song_title": "桜ロック",
 		"singer_name": "CHERRYBLOSSOM",
 		"lyrics_composition_name": "MEEKO",
-		"find_char": "さくらろっく\n家庭教師ヒットマンREBORN! リボーン\nエンディングテーマ\n \n 桜ロック \n CHERRYBLOSSOM \n MEEKO",
+		"find_char": "さくらろっく\n家庭教師ヒットマンREBORN! リボーン\nエンディングテーマ\n復活 \n 桜ロック \n CHERRYBLOSSOM \n MEEKO",
 		"sing_count": 3,
 		"sing_url": "https://youtu.be/w7mluNRJSXo&t=4848s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=桜ロック"
@@ -2253,7 +2253,7 @@
 		"song_title": "DIVE TO WORLD",
 		"singer_name": "CHERRYBLOSSOM",
 		"lyrics_composition_name": "ＭＥＥＫＯ,83",
-		"find_char": "だいぶとぅわーるど\n家庭教師ヒットマンREBORN! リボーン\nオープニングテーマ\n \n DIVE TO WORLD \n CHERRYBLOSSOM \n ＭＥＥＫＯ,83",
+		"find_char": "だいぶとぅわーるど\n家庭教師ヒットマンREBORN! リボーン\nオープニングテーマ\n復活 \n DIVE TO WORLD \n CHERRYBLOSSOM \n ＭＥＥＫＯ,83",
 		"sing_count": 2,
 		"sing_url": "https://youtu.be/zXqCNLXG2y8&t=8678s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=DIVE TO WORLD"
@@ -3933,6 +3933,15 @@
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=メリーバッドエンド"
 	},
 	{
+		"song_title": "メルティメロディー",
+		"singer_name": "酔眠はやね,天草フラン",
+		"lyrics_composition_name": "めろくる",
+		"find_char": "めるてぃめろでぃー\nVocaDuo2025投稿曲\nボカデュオ2025 team メルティフロッピー\n \n メルティメロディー \n 酔眠はやね,天草フラン \n めろくる",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/sjql-hs9We8&t=3653s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=メルティメロディー"
+	},
+	{
 		"song_title": "メルト",
 		"singer_name": "初音ミク",
 		"lyrics_composition_name": "ryo",
@@ -4107,7 +4116,7 @@
 		"song_title": "夢のマニュアル",
 		"singer_name": "CHERRYBLOSSOM",
 		"lyrics_composition_name": "ＭＥＥＫＯ,83",
-		"find_char": "ゆめのまにゅある\n家庭教師ヒットマンREBORN! リボーン\nエンディングテーマ\n \n 夢のマニュアル \n CHERRYBLOSSOM \n ＭＥＥＫＯ,83",
+		"find_char": "ゆめのまにゅある\n家庭教師ヒットマンREBORN! リボーン\nエンディングテーマ\n復活 \n 夢のマニュアル \n CHERRYBLOSSOM \n ＭＥＥＫＯ,83",
 		"sing_count": 1,
 		"sing_url": "https://youtu.be/DzM7LtoWap0&t=3101s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=夢のマニュアル"
@@ -4246,15 +4255,6 @@
 		"sing_count": 2,
 		"sing_url": "https://youtu.be/UZB5HqxH8v0&t=2301s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ラッキーカラー"
-	},
-	{
-		"song_title": "メルティメロディー",
-		"singer_name": "酔眠はやね,天草フラン",
-		"lyrics_composition_name": "めろくる",
-		"find_char": "らっきーからー\nVocaDuo2025投稿曲\nボカデュオ2025 team メルティフロッピー\n \n メルティメロディー \n 酔眠はやね,天草フラン \n めろくる",
-		"sing_count": 1,
-		"sing_url": "https://youtu.be/sjql-hs9We8&t=3653s",
-		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=メルティメロディー"
 	},
 	{
 		"song_title": "ラヴィ",
