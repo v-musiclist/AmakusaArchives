@@ -14934,5 +14934,87 @@
 				"url": "https://youtu.be/sjql-hs9We8&t=3653s"
 			}
 		]
+	},
+	{
+		"live_id": "L142",
+		"songs": [
+			{
+				"song_id": "S001",
+				"title": "アイスドロップ",
+				"singer": "日野森雫,鏡音レン,花里みのり,桃井愛莉,桐谷遥",
+				"lyrics_composition": "Aqu3ra,あぷえら",
+				"url": "https://youtu.be/iadSWPCXfLY&t=475s"
+			},
+			{
+				"song_id": "S002",
+				"title": "flos",
+				"singer": "初音ミク",
+				"lyrics_composition": "R Sound Design,usugeP",
+				"url": "https://youtu.be/iadSWPCXfLY&t=898s"
+			},
+			{
+				"song_id": "S003",
+				"title": "ヴィーナスとジーザス",
+				"singer": "やくしまるえつこ,ティカ・α",
+				"lyrics_composition": "やくしまるえつこ,ティカ・α",
+				"url": "https://youtu.be/iadSWPCXfLY&t=1382s"
+			},
+			{
+				"song_id": "S004",
+				"title": "ナイショの話",
+				"singer": "ClariS",
+				"lyrics_composition": "ryo",
+				"url": "https://youtu.be/iadSWPCXfLY&t=1735s"
+			},
+			{
+				"song_id": "S005",
+				"title": "プラチナ",
+				"singer": "坂本真綾",
+				"lyrics_composition": "岩里祐穂,菅野よう子",
+				"url": "https://youtu.be/iadSWPCXfLY&t=2149s"
+			},
+			{
+				"song_id": "S006",
+				"title": "じゃじゃ馬にさせないで",
+				"singer": "西尾えつ子",
+				"lyrics_composition": "森雪之丞,村松邦男",
+				"url": "https://youtu.be/iadSWPCXfLY&t=2630s"
+			},
+			{
+				"song_id": "S007",
+				"title": "mosi mosi?",
+				"singer": "楽音",
+				"lyrics_composition": "向田民子",
+				"url": "https://youtu.be/iadSWPCXfLY&t=3273s"
+			},
+			{
+				"song_id": "S008",
+				"title": "ふわふわ時間",
+				"singer": "桜高軽音部,放課後ティータイム",
+				"lyrics_composition": "秋山澪,前澤寛之",
+				"url": "https://youtu.be/iadSWPCXfLY&t=3873s"
+			},
+			{
+				"song_id": "S009",
+				"title": "たぶん",
+				"singer": "YOASOBI",
+				"lyrics_composition": "Ayase",
+				"url": "https://youtu.be/iadSWPCXfLY&t=4318s"
+			},
+			{
+				"song_id": "S010",
+				"title": "いかないで",
+				"singer": "歌愛ユキ",
+				"lyrics_composition": "想太",
+				"url": "https://youtu.be/iadSWPCXfLY&t=5011s"
+			},
+			{
+				"song_id": "S011",
+				"title": "可愛くなりたい",
+				"singer": "雨宮天",
+				"lyrics_composition": "チョリスP,shito,使徒,ゴム,Gom",
+				"url": "https://youtu.be/iadSWPCXfLY&t=5416s"
+			}
+		]
 	}
 ]
