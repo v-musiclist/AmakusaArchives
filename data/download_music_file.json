@@ -15016,5 +15016,262 @@
 				"url": "https://youtu.be/iadSWPCXfLY&t=5416s"
 			}
 		]
+	},
+	{
+		"live_id": "L143",
+		"songs": [
+			{
+				"song_id": "S001",
+				"title": "少女レイ",
+				"singer": "初音ミク",
+				"lyrics_composition": "みきとP,愛島",
+				"url": "https://youtu.be/otsF_oVWVM0&t=448s"
+			},
+			{
+				"song_id": "S002",
+				"title": "アイスドロップ",
+				"singer": "日野森雫,鏡音レン,花里みのり,桃井愛莉,桐谷遥",
+				"lyrics_composition": "Aqu3ra,あぷえら",
+				"url": "https://youtu.be/otsF_oVWVM0&t=946s"
+			},
+			{
+				"song_id": "S003",
+				"title": "夏に去りし君を想フ",
+				"singer": "初音ミク",
+				"lyrics_composition": "baker,ウイイレP",
+				"url": "https://youtu.be/otsF_oVWVM0&t=1368s"
+			},
+			{
+				"song_id": "S004",
+				"title": "スマイル",
+				"singer": "嵐",
+				"lyrics_composition": "Erik Lidbom,youth case",
+				"url": "https://youtu.be/otsF_oVWVM0&t=1886s"
+			},
+			{
+				"song_id": "S005",
+				"title": "夏祭り",
+				"singer": "JITTERIN'JINN",
+				"lyrics_composition": "破矢ジンタ",
+				"url": "https://youtu.be/otsF_oVWVM0&t=2346s"
+			},
+			{
+				"song_id": "S006",
+				"title": "いかないで",
+				"singer": "歌愛ユキ",
+				"lyrics_composition": "想太",
+				"url": "https://youtu.be/otsF_oVWVM0&t=2755s"
+			},
+			{
+				"song_id": "S007",
+				"title": "あの夢をなぞって",
+				"singer": "YOASOBI",
+				"lyrics_composition": "Ayase",
+				"url": "https://youtu.be/otsF_oVWVM0&t=3206s"
+			},
+			{
+				"song_id": "S008",
+				"title": "花に亡霊",
+				"singer": "ヨルシカ",
+				"lyrics_composition": "n-buna,ナブナ",
+				"url": "https://youtu.be/otsF_oVWVM0&t=3676s"
+			},
+			{
+				"song_id": "S009",
+				"title": "カゲロウデイズ",
+				"singer": "初音ミク",
+				"lyrics_composition": "じん,自然の敵P",
+				"url": "https://youtu.be/otsF_oVWVM0&t=4214s"
+			},
+			{
+				"song_id": "S010",
+				"title": "ワニとシャンプー",
+				"singer": "ももいろクローバーZ",
+				"lyrics_composition": "前山田健一,ヒャダイン",
+				"url": "https://youtu.be/otsF_oVWVM0&t=4787s"
+			},
+			{
+				"song_id": "S011",
+				"title": "夏色えがおで1,2,Jump!",
+				"singer": "μ's",
+				"lyrics_composition": "畑亜貴,奥松誠",
+				"url": "https://youtu.be/otsF_oVWVM0&t=5620s"
+			},
+			{
+				"song_id": "S012",
+				"title": "パラソルサイダー",
+				"singer": "桃井愛莉,日野森雫,巡音ルカ,花里みのり,桐谷遥",
+				"lyrics_composition": "ナナホシ管弦楽団,岩見 陸,モナカ",
+				"url": "https://youtu.be/otsF_oVWVM0&t=6194s"
+			},
+			{
+				"song_id": "S013",
+				"title": "青く駆けろ！",
+				"singer": "初音ミク,MEIKO,ミライアカリ,YuNi,富士葵,星乃一歌",
+				"lyrics_composition": "まらしぃ",
+				"url": "https://youtu.be/otsF_oVWVM0&t=6619s"
+			},
+			{
+				"song_id": "S014",
+				"title": "Believe(Folder5)",
+				"singer": "Folder5",
+				"lyrics_composition": "谷穂チロル,GROOVE SURFERS",
+				"url": "https://youtu.be/otsF_oVWVM0&t=7007s"
+			},
+			{
+				"song_id": "S015",
+				"title": "マリーゴールド",
+				"singer": "あいみょん",
+				"lyrics_composition": "あいみょん",
+				"url": "https://youtu.be/otsF_oVWVM0&t=7397s"
+			},
+			{
+				"song_id": "S016",
+				"title": "secret base〜君がくれたもの〜",
+				"singer": "ZONE",
+				"lyrics_composition": "町田紀彦",
+				"url": "https://youtu.be/otsF_oVWVM0&t=7873s"
+			},
+			{
+				"song_id": "S017",
+				"title": "Fire◎Flower",
+				"singer": "鏡音レン",
+				"lyrics_composition": "halyosy",
+				"url": "https://youtu.be/otsF_oVWVM0&t=8423s"
+			},
+			{
+				"song_id": "S018",
+				"title": "ひまわりの約束",
+				"singer": "秦基博",
+				"lyrics_composition": "秦基博",
+				"url": "https://youtu.be/otsF_oVWVM0&t=8892s"
+			},
+			{
+				"song_id": "S019",
+				"title": "君の知らない物語",
+				"singer": "Supercell",
+				"lyrics_composition": "ryo",
+				"url": "https://youtu.be/otsF_oVWVM0&t=9613s"
+			},
+			{
+				"song_id": "S020",
+				"title": "RUN！RUN！RUN！",
+				"singer": "大槻マキ",
+				"lyrics_composition": "大槻真希,JUN MORITA",
+				"url": "https://youtu.be/otsF_oVWVM0&t=10526s"
+			},
+			{
+				"song_id": "S021",
+				"title": "晴天を穿つ",
+				"singer": "Mew",
+				"lyrics_composition": "傘村トータ",
+				"url": "https://youtu.be/otsF_oVWVM0&t=11275s"
+			},
+			{
+				"song_id": "S022",
+				"title": "ナイスだね",
+				"singer": "CUTIE STREET",
+				"lyrics_composition": "川谷絵音",
+				"url": "https://youtu.be/otsF_oVWVM0&t=11700s"
+			},
+			{
+				"song_id": "S023",
+				"title": "うたかた花火",
+				"singer": "Supercell",
+				"lyrics_composition": "ryo",
+				"url": "https://youtu.be/otsF_oVWVM0&t=12171s"
+			},
+			{
+				"song_id": "S024",
+				"title": "初恋サイダー",
+				"singer": "Buono!",
+				"lyrics_composition": "NOBE,しほり",
+				"url": "https://youtu.be/otsF_oVWVM0&t=12739s"
+			},
+			{
+				"song_id": "S025",
+				"title": "サマータイムレコード",
+				"singer": "IA",
+				"lyrics_composition": "じん,自然の敵P",
+				"url": "https://youtu.be/otsF_oVWVM0&t=13238s"
+			},
+			{
+				"song_id": "S026",
+				"title": "HANABI",
+				"singer": "いきものがかり",
+				"lyrics_composition": "水野良樹",
+				"url": "https://youtu.be/otsF_oVWVM0&t=14051s"
+			},
+			{
+				"song_id": "S027",
+				"title": "夜明けと蛍",
+				"singer": "初音ミク",
+				"lyrics_composition": "n-buna,ナブナ",
+				"url": "https://youtu.be/otsF_oVWVM0&t=14707s"
+			},
+			{
+				"song_id": "S028",
+				"title": "東京サマーセッション",
+				"singer": "GUMI,ｖ flower",
+				"lyrics_composition": "チョリスP,shito,使徒,ゴム,Gom,海賊王",
+				"url": "https://youtu.be/otsF_oVWVM0&t=15250s"
+			},
+			{
+				"song_id": "S029",
+				"title": "瑠璃色金魚と花菖蒲",
+				"singer": "南早紀",
+				"lyrics_composition": "ラムシーニ,西村太貴,中村彼方",
+				"url": "https://youtu.be/otsF_oVWVM0&t=16080s"
+			},
+			{
+				"song_id": "S030",
+				"title": "ホタルノヒカリ",
+				"singer": "いきものがかり",
+				"lyrics_composition": "水野良樹",
+				"url": "https://youtu.be/otsF_oVWVM0&t=16859s"
+			},
+			{
+				"song_id": "S031",
+				"title": "Summer Splash!",
+				"singer": "嵐",
+				"lyrics_composition": "櫻井翔,The仙台セピア,Hi-Fi CAMP",
+				"url": "https://youtu.be/otsF_oVWVM0&t=17367s"
+			},
+			{
+				"song_id": "S032",
+				"title": "you",
+				"singer": "癒月",
+				"lyrics_composition": "癒月,dai",
+				"url": "https://youtu.be/otsF_oVWVM0&t=17971s"
+			},
+			{
+				"song_id": "S033",
+				"title": "君と夏フェス",
+				"singer": "SHISHAMO",
+				"lyrics_composition": "宮崎朝子",
+				"url": "https://youtu.be/otsF_oVWVM0&t=18367s"
+			},
+			{
+				"song_id": "S034",
+				"title": "想像フォレスト",
+				"singer": "IA",
+				"lyrics_composition": "じん,自然の敵P",
+				"url": "https://youtu.be/otsF_oVWVM0&t=18780s"
+			},
+			{
+				"song_id": "S035",
+				"title": "夏時間グラフィティ",
+				"singer": "鷹城恭二,ピエール,渡辺みのり,伊瀬谷四季,秋山隼人,若里春名,冬美旬,榊夏来,蒼井享介,蒼井悠介",
+				"lyrics_composition": "結城アイラ,佐々木裕",
+				"url": "https://youtu.be/otsF_oVWVM0&t=19286s"
+			},
+			{
+				"song_id": "S036",
+				"title": "小さきもの",
+				"singer": "林明日香",
+				"lyrics_composition": "三浦徳子,山移高寛",
+				"url": "https://youtu.be/otsF_oVWVM0&t=19820s"
+			}
+		]
 	}
 ]
