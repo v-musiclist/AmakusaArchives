@@ -220,6 +220,17 @@
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/36732.html"
 	},
 	{
+		"song_title": "青い珊瑚礁",
+		"singer_name": "松田聖子",
+		"lyrics_composition_name": "三浦徳子,小田裕一郎",
+		"find_char": "あおいさんごしょう\n \n 青い珊瑚礁 \n 松田聖子 \n 三浦徳子,小田裕一郎",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/jJc-Sij_19Y&t=60s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=青い珊瑚礁",
+		"sing_day": "26年08月14日",
+		"song_lyrics": "https://www.uta-net.com/song/170/"
+	},
+	{
 		"song_title": "青く駆けろ！",
 		"singer_name": "初音ミク,MEIKO,ミライアカリ,YuNi,富士葵,星乃一歌",
 		"lyrics_composition_name": "まらしぃ",
@@ -1995,10 +2006,10 @@
 		"singer_name": "IA",
 		"lyrics_composition_name": "じん,自然の敵P",
 		"find_char": "さまーたいむれこーど\nカゲロウプロジェクト カゲプロ 楽曲\nメカクシティアクターズ　挿入歌\n \n サマータイムレコード \n IA \n じん,自然の敵P",
-		"sing_count": 26,
-		"sing_url": "https://youtu.be/W2Smx-p4Zuo&t=17866s",
+		"sing_count": 27,
+		"sing_url": "https://youtu.be/jJc-Sij_19Y&t=1427s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=サマータイムレコード",
-		"sing_day": "26年08月07日",
+		"sing_day": "26年08月14日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/26585.html"
 	},
 	{
@@ -3531,6 +3542,17 @@
 		"song_lyrics": "https://www.uta-net.com/song/239563/"
 	},
 	{
+		"song_title": "夏空グラフィティ",
+		"singer_name": "いきものがかり",
+		"lyrics_composition_name": "水野良樹",
+		"find_char": "なつぞらぐらふぃてぃ\nアクエリアス ビタミンガード CMソング\n \n 夏空グラフィティ \n いきものがかり \n 水野良樹",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/jJc-Sij_19Y&t=728s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=夏空グラフィティ",
+		"sing_day": "26年08月14日",
+		"song_lyrics": "https://www.uta-net.com/song/55569/"
+	},
+	{
 		"song_title": "夏に去りし君を想フ",
 		"singer_name": "初音ミク",
 		"lyrics_composition_name": "baker,ウイイレP",
@@ -4717,6 +4739,17 @@
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ボルテッカー",
 		"sing_day": "24年03月14日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/56013.html"
+	},
+	{
+		"song_title": "BON VOYAGE!",
+		"singer_name": "Bon-Bon Blanco",
+		"lyrics_composition_name": "佐々木美和,大島こうすけ",
+		"find_char": "ぼんぶぉやーじゅ\nONE PIECE ワンピース\nオープニングテーマ\n \n BON VOYAGE! \n Bon-Bon Blanco \n 佐々木美和,大島こうすけ",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/jJc-Sij_19Y&t=437s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=BON VOYAGE",
+		"sing_day": "26年08月14日",
+		"song_lyrics": "https://www.uta-net.com/song/18470/"
 	},
 	{
 		"song_title": "ボッカデラベリタ",
