@@ -15783,5 +15783,87 @@
 				"url": "https://youtu.be/jJc-Sij_19Y&t=1427s"
 			}
 		]
+	},
+	{
+		"live_id": "L148",
+		"songs": [
+			{
+				"song_id": "S001",
+				"title": "微熱からMystery",
+				"singer": "園田海未,星空凛,東條希",
+				"lyrics_composition": "畑亜貴,佐々木裕",
+				"url": "https://youtu.be/fn_iZlf-KDc&t=489s"
+			},
+			{
+				"song_id": "S002",
+				"title": "君と夏フェス",
+				"singer": "SHISHAMO",
+				"lyrics_composition": "宮崎朝子",
+				"url": "https://youtu.be/fn_iZlf-KDc&t=846s"
+			},
+			{
+				"song_id": "S003",
+				"title": "君の知らない物語",
+				"singer": "Supercell",
+				"lyrics_composition": "ryo",
+				"url": "https://youtu.be/fn_iZlf-KDc&t=1220s"
+			},
+			{
+				"song_id": "S004",
+				"title": "PAPERMOON",
+				"singer": "Tommy heavenly6",
+				"lyrics_composition": "Tommy heavenly6,Chiffon Brownie",
+				"url": "https://youtu.be/fn_iZlf-KDc&t=1740s"
+			},
+			{
+				"song_id": "S005",
+				"title": "Pray",
+				"singer": "Tommy heavenly6",
+				"lyrics_composition": "Tommy heavenly6,Chris Walker",
+				"url": "https://youtu.be/fn_iZlf-KDc&t=2258s"
+			},
+			{
+				"song_id": "S006",
+				"title": "ケセラセラ",
+				"singer": "fhána",
+				"lyrics_composition": "林英樹,佐藤純一",
+				"url": "https://youtu.be/fn_iZlf-KDc&t=2823s"
+			},
+			{
+				"song_id": "S007",
+				"title": "夏色えがおで1,2,Jump!",
+				"singer": "μ's",
+				"lyrics_composition": "畑亜貴,奥松誠",
+				"url": "https://youtu.be/fn_iZlf-KDc&t=3448s"
+			},
+			{
+				"song_id": "S008",
+				"title": "ココロのちず",
+				"singer": "BOYSTYLE",
+				"lyrics_composition": "ＭＩＺＵＥ,渡辺和紀",
+				"url": "https://youtu.be/fn_iZlf-KDc&t=4157s"
+			},
+			{
+				"song_id": "S009",
+				"title": "青い珊瑚礁",
+				"singer": "松田聖子",
+				"lyrics_composition": "三浦徳子,小田裕一郎",
+				"url": "https://youtu.be/fn_iZlf-KDc&t=4557s"
+			},
+			{
+				"song_id": "S010",
+				"title": "じゃじゃ馬にさせないで",
+				"singer": "西尾えつ子",
+				"lyrics_composition": "森雪之丞,村松邦男",
+				"url": "https://youtu.be/fn_iZlf-KDc&t=5045s"
+			},
+			{
+				"song_id": "S011",
+				"title": "うたかた花火",
+				"singer": "Supercell",
+				"lyrics_composition": "ryo",
+				"url": "https://youtu.be/fn_iZlf-KDc&t=6179s"
+			}
+		]
 	}
 ]
