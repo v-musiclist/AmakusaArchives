@@ -662,5 +662,13 @@
 		"video_url": "https://www.youtube.com/watch?v=I1ZI4-TwwfI",
 		"video_image": "https://i.ytimg.com/vi/I1ZI4-TwwfI/hqdefault.jpg",
 		"video_option": "通常"
+	},
+	{
+		"video_id": "V084",
+		"name": "YAKIMOCHI",
+		"video_setting": "youtube",
+		"video_url": "https://www.youtube.com/watch?v=2nNNVAymUfA",
+		"video_image": "https://i.ytimg.com/vi/2nNNVAymUfA/hqdefault.jpg",
+		"video_option": "通常"
 	}
 ]
