@@ -1190,5 +1190,21 @@
 		"live_text": "【 朝活 / 歌枠 / karaoke 】どこよりも近い！おはよう！！！お歌聞いてって～！🩵💛【 #天草フラン / vtuber 】",
 		"live_joy": true,
 		"live_image": "https://i.ytimg.com/vi/4jKQnKWu1wI/hq720.jpg"
+	},
+	{
+		"live_id": "L150",
+		"url": "https://youtu.be/aNYRvyK3NnM",
+		"live_setting": "通常",
+		"live_text": "【 朝活 / 歌枠 / karaoke 】おはようございます👒朝からまったり甘い幸せを🍀【 #天草フラン / vtuber 】",
+		"live_joy": true,
+		"live_image": "https://i.ytimg.com/vi/aNYRvyK3NnM/hq720.jpg"
+	},
+	{
+		"live_id": "L151",
+		"url": "https://youtu.be/oNSkesverQQ",
+		"live_setting": "通常",
+		"live_text": "【 歌枠 / karaoke 】初見さんも気軽にっ🧜‍♀️今日もお疲れ様❕一曲聞いてかない？🪸🪼【 #天草フラン / vtuber 】",
+		"live_joy": true,
+		"live_image": "https://i.ytimg.com/vi/oNSkesverQQ/hq720.jpg"
 	}
 ]
