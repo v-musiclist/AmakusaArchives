@@ -1353,6 +1353,17 @@
 		"song_lyrics": "https://www.uta-net.com/song/358458/"
 	},
 	{
+		"song_title": "キティ",
+		"singer_name": "初音ミク",
+		"lyrics_composition_name": "ツミキ",
+		"find_char": "きてぃ\nプロジェクトセカイ カラフルステージ！ feat. 初音ミク プロセカ\n25時、ナイトコードで。 楽曲\n \n キティ \n 初音ミク \n ツミキ \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/oNSkesverQQ&t=1098s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=キティ",
+		"sing_day": "26年08月28日",
+		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/52534.html"
+	},
+	{
 		"song_title": "キドアイラク",
 		"singer_name": "初音ミク,GUMI",
 		"lyrics_composition_name": "Task",
@@ -2269,11 +2280,11 @@
 		"song_title": "少女S",
 		"singer_name": "SCANDAL",
 		"lyrics_composition_name": "TOMOMI,田鹿祐一",
-		"find_char": "しょうじょえす\nBLEACH ブリーチ 鰤\nオープニングテーマ\n \n 少女S \n SCANDAL \n TOMOMI,田鹿祐一 \n ",
-		"sing_count": 2,
-		"sing_url": "https://youtu.be/UsbVm38yh-E&t=11380s",
+		"find_char": "しょうじょえす\nBLEACH ブリーチ 鰤\nオープニングテーマ\n \n 少女S \n SCANDAL \n TOMOMI,田鹿祐一 \n JOY",
+		"sing_count": 3,
+		"sing_url": "https://youtu.be/oNSkesverQQ&t=4441s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=少女S",
-		"sing_day": "25年02月05日",
+		"sing_day": "26年08月28日",
 		"song_lyrics": "https://www.uta-net.com/song/80446/"
 	},
 	{
@@ -2528,6 +2539,17 @@
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=スクランブル交際",
 		"sing_day": "26年04月25日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/39072.html"
+	},
+	{
+		"song_title": "Squall",
+		"singer_name": "松本英子",
+		"lyrics_composition_name": "福山雅治",
+		"find_char": "すこーる\nパーフェクトラブ!\n挿入歌\n \n Squall \n 松本英子 \n 福山雅治 \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/oNSkesverQQ&t=2561s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=Squall",
+		"sing_day": "26年08月28日",
+		"song_lyrics": "https://www.uta-net.com/song/13153/"
 	},
 	{
 		"song_title": "ススメ→トゥモロウ",
@@ -2836,6 +2858,17 @@
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=備えあれば無問題",
 		"sing_day": "26年08月19日",
 		"song_lyrics": "https://www.uta-net.com/song/358460/"
+	},
+	{
+		"song_title": "そばかす",
+		"singer_name": "JUDY AND MARY",
+		"lyrics_composition_name": "YUKI,恩田快人",
+		"find_char": "そばかす\nるろうに剣心 -明治剣客浪漫譚-(1996年)\nオープニングテーマ\n \n そばかす \n JUDY AND MARY \n YUKI,恩田快人 \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/oNSkesverQQ&t=3567s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=そばかす",
+		"sing_day": "26年08月28日",
+		"song_lyrics": "https://www.uta-net.com/song/8953/"
 	},
 	{
 		"song_title": "空",
@@ -3366,6 +3399,17 @@
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/56771.html"
 	},
 	{
+		"song_title": "遠く遠く",
+		"singer_name": "槇原敬之",
+		"lyrics_composition_name": "槇原敬之",
+		"find_char": "とおくとおく\n \n 遠く遠く \n 槇原敬之 \n 槇原敬之 \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/oNSkesverQQ&t=2042s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=遠く遠く",
+		"sing_day": "26年08月28日",
+		"song_lyrics": "https://www.uta-net.com/song/11016/"
+	},
+	{
 		"song_title": "ときめきブローカー",
 		"singer_name": "P丸様。",
 		"lyrics_composition_name": "ナナホシ管弦楽団,岩見 陸,モナカ",
@@ -3634,10 +3678,10 @@
 		"singer_name": "いきものがかり",
 		"lyrics_composition_name": "水野良樹",
 		"find_char": "なつぞらぐらふぃてぃ\nアクエリアス ビタミンガード CMソング\n \n 夏空グラフィティ \n いきものがかり \n 水野良樹 \n JOY",
-		"sing_count": 1,
-		"sing_url": "https://youtu.be/jJc-Sij_19Y&t=728s",
+		"sing_count": 2,
+		"sing_url": "https://youtu.be/oNSkesverQQ&t=4017s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=夏空グラフィティ",
-		"sing_day": "26年08月14日",
+		"sing_day": "26年08月28日",
 		"song_lyrics": "https://www.uta-net.com/song/55569/"
 	},
 	{
@@ -4829,6 +4873,17 @@
 		"song_lyrics": "NULL"
 	},
 	{
+		"song_title": "HOT LIMIT",
+		"singer_name": "T.M.Revolution",
+		"lyrics_composition_name": "井上秋緒,浅倉大介",
+		"find_char": "ほっとりみっと\n三ツ矢サイダー CM 楽曲\n \n HOT LIMIT \n T.M.Revolution \n 井上秋緒,浅倉大介 \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/oNSkesverQQ&t=5854s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=HOT LIMIT",
+		"sing_day": "26年08月28日",
+		"song_lyrics": "https://www.uta-net.com/song/10378/"
+	},
+	{
 		"song_title": "ホワイトハッピー",
 		"singer_name": "初音ミク",
 		"lyrics_composition_name": "MARETU",
@@ -4838,6 +4893,17 @@
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ホワイトハッピー",
 		"sing_day": "25年08月14日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/36423.html"
+	},
+	{
+		"song_title": "本日、満開ワタシ色!",
+		"singer_name": "桂ヒナギク,瀬川泉,花菱美希,朝風理沙",
+		"lyrics_composition_name": "くまのきよみ,磯部篤子",
+		"find_char": "ほんじつまんかいわたしいろ\nハヤテのごとく!!\nエンディングテーマ\n \n 本日、満開ワタシ色! \n 桂ヒナギク,瀬川泉,花菱美希,朝風理沙 \n くまのきよみ,磯部篤子 \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/oNSkesverQQ&t=5193s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=本日、満開ワタシ色!",
+		"sing_day": "26年08月28日",
+		"song_lyrics": "https://www.uta-net.com/song/123712/"
 	},
 	{
 		"song_title": "僕に彼女ができたんだ",
@@ -4915,6 +4981,17 @@
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=my sweet heart",
 		"sing_day": "26年08月04日",
 		"song_lyrics": "https://www.uta-net.com/song/325028/"
+	},
+	{
+		"song_title": "マインドブランド",
+		"singer_name": "初音ミク",
+		"lyrics_composition_name": "MARETU",
+		"find_char": "まいんどぶらんど\n \n マインドブランド \n 初音ミク \n MARETU \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/oNSkesverQQ&t=3064s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=マインドブランド",
+		"sing_day": "26年08月28日",
+		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/32143.html"
 	},
 	{
 		"song_title": "magnet",
@@ -5443,6 +5520,17 @@
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ゆめみるプリマドンナ",
 		"sing_day": "26年05月29日",
 		"song_lyrics": "https://www.uta-net.com/song/387641/"
+	},
+	{
+		"song_title": "ユラユラ",
+		"singer_name": "Hearts Grow",
+		"lyrics_composition_name": "Hearts Grow",
+		"find_char": "ゆらゆら\nNARUTO -ナルト- \nオープニングテーマ\n \n ユラユラ \n Hearts Grow \n Hearts Grow \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/oNSkesverQQ&t=1576s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ユラユラ",
+		"sing_day": "26年08月28日",
+		"song_lyrics": "https://www.uta-net.com/song/50817/"
 	},
 	{
 		"song_title": "you",
