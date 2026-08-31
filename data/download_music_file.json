@@ -16104,5 +16104,87 @@
 				"url": "https://youtu.be/oNSkesverQQ&t=5854s"
 			}
 		]
+	},
+	{
+		"live_id": "L152",
+		"songs": [
+			{
+				"song_id": "S001",
+				"title": "needLe",
+				"singer": "初音ミク,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+				"lyrics_composition": "DECO*27",
+				"url": "https://youtu.be/_nb8IBLDAgc&t=648s"
+			},
+			{
+				"song_id": "S002",
+				"title": "ドラマツルギー",
+				"singer": "初音ミク",
+				"lyrics_composition": "Eve",
+				"url": "https://youtu.be/_nb8IBLDAgc&t=1055s"
+			},
+			{
+				"song_id": "S003",
+				"title": "YAKIMOCHI",
+				"singer": "SWEET STEADY",
+				"lyrics_composition": "MOCHIHAMOCHIYA",
+				"url": "https://youtu.be/_nb8IBLDAgc&t=1432s"
+			},
+			{
+				"song_id": "S004",
+				"title": "モザイクロール",
+				"singer": "GUMI",
+				"lyrics_composition": "DECO*27",
+				"url": "https://youtu.be/_nb8IBLDAgc&t=1865s"
+			},
+			{
+				"song_id": "S005",
+				"title": "ロックンロールなんですの",
+				"singer": "Supercell",
+				"lyrics_composition": "ryo",
+				"url": "https://youtu.be/_nb8IBLDAgc&t=2240s"
+			},
+			{
+				"song_id": "S006",
+				"title": "BON VOYAGE!",
+				"singer": "Bon-Bon Blanco",
+				"lyrics_composition": "佐々木美和,大島こうすけ",
+				"url": "https://youtu.be/_nb8IBLDAgc&t=2814s"
+			},
+			{
+				"song_id": "S007",
+				"title": "ヒトヒラのハナビラ",
+				"singer": "ステレオポニー",
+				"lyrics_composition": "AIMI",
+				"url": "https://youtu.be/_nb8IBLDAgc&t=3294s"
+			},
+			{
+				"song_id": "S008",
+				"title": "イチャイチャチュッチュキャピキャピラブラブスリスリドキドキ",
+				"singer": "HAPPY BIRTHDAY",
+				"lyrics_composition": "坂口喜咲",
+				"url": "https://youtu.be/_nb8IBLDAgc&t=4057s"
+			},
+			{
+				"song_id": "S009",
+				"title": "初恋サイダー",
+				"singer": "Buono!",
+				"lyrics_composition": "NOBE,しほり",
+				"url": "https://youtu.be/_nb8IBLDAgc&t=4623s"
+			},
+			{
+				"song_id": "S010",
+				"title": "気まぐれロマンティック",
+				"singer": "いきものがかり",
+				"lyrics_composition": "水野良樹,山下穂尊",
+				"url": "https://youtu.be/_nb8IBLDAgc&t=5125s"
+			},
+			{
+				"song_id": "S011",
+				"title": "RUN！RUN！RUN！",
+				"singer": "大槻マキ",
+				"lyrics_composition": "大槻真希,JUN MORITA",
+				"url": "https://youtu.be/_nb8IBLDAgc&t=7997s"
+			}
+		]
 	}
 ]
