@@ -670,5 +670,13 @@
 		"video_url": "https://www.youtube.com/watch?v=2nNNVAymUfA",
 		"video_image": "https://i.ytimg.com/vi/2nNNVAymUfA/hqdefault.jpg",
 		"video_option": "通常"
+	},
+	{
+		"video_id": "V085",
+		"name": "ゆめみるプリマドンナ",
+		"video_setting": "youtube",
+		"video_url": "https://www.youtube.com/watch?v=14wiSV0PVqE",
+		"video_image": "https://i.ytimg.com/vi/14wiSV0PVqE/hqdefault.jpg",
+		"video_option": "通常"
 	}
 ]
