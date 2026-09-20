@@ -748,6 +748,17 @@
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/9307.html"
 	},
 	{
+		"song_title": "笑顔に会いたい",
+		"singer_name": "濱田理恵",
+		"lyrics_composition_name": "柚木美祐,濱田理恵",
+		"find_char": "えがおにあいたい\nママレード♥ボーイ\nオープニングテーマ\n \n 笑顔に会いたい \n 濱田理恵 \n 柚木美祐,濱田理恵 \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/R0HTT4DwZX0&t=1756s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=笑顔に会いたい",
+		"sing_day": "26年09月19日",
+		"song_lyrics": "https://www.uta-net.com/song/7257/"
+	},
+	{
 		"song_title": "エゴイスト",
 		"singer_name": "flower",
 		"lyrics_composition_name": "大沼パセリ",
@@ -3776,11 +3787,11 @@
 		"song_title": "NEW KAWAII",
 		"singer_name": "FRUITS ZIPPER",
 		"lyrics_composition_name": "ヤマモトショウ",
-		"find_char": "にゅーかわいい\n \n NEW KAWAII \n FRUITS ZIPPER \n ヤマモトショウ \n ",
-		"sing_count": 9,
-		"sing_url": "https://youtu.be/zx1LrOkk2mI&t=4429s",
+		"find_char": "にゅーかわいい\n \n NEW KAWAII \n FRUITS ZIPPER \n ヤマモトショウ \n JOY",
+		"sing_count": 10,
+		"sing_url": "https://youtu.be/R0HTT4DwZX0&t=4402s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=NEW KAWAII",
-		"sing_day": "26年07月17日",
+		"sing_day": "26年09月19日",
 		"song_lyrics": "https://www.uta-net.com/song/352885/"
 	},
 	{
@@ -3936,6 +3947,17 @@
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=Happy Halloween",
 		"sing_day": "25年10月25日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/30513.html"
+	},
+	{
+		"song_title": "ハッピー☆マテリアル",
+		"singer_name": "麻帆良学園中等部2年A組",
+		"lyrics_composition_name": "うらん,大川茂伸",
+		"find_char": "はっぴーまてりある\n魔法先生ネギま!\nオープニングテーマ\n \n ハッピー☆マテリアル \n 麻帆良学園中等部2年A組 \n うらん,大川茂伸 \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/R0HTT4DwZX0&t=3838s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ハッピー☆マテリアル",
+		"sing_day": "26年09月19日",
+		"song_lyrics": "https://www.uta-net.com/song/233477/"
 	},
 	{
 		"song_title": "ハッピーラッキーチャッピー",
@@ -4217,10 +4239,10 @@
 		"singer_name": "CUTIE STREET",
 		"lyrics_composition_name": "Orca,塩谷大貴",
 		"find_char": "ひたむきしんでれら\n \n ひたむきシンデレラ！ \n CUTIE STREET \n Orca,塩谷大貴 \n JOY",
-		"sing_count": 10,
-		"sing_url": "https://youtu.be/-W-Ku-Y-n8s&t=1961s",
+		"sing_count": 11,
+		"sing_url": "https://youtu.be/R0HTT4DwZX0&t=2468s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ひたむきシンデレラ！",
-		"sing_day": "26年08月10日",
+		"sing_day": "26年09月19日",
 		"song_lyrics": "https://www.uta-net.com/song/363263/"
 	},
 	{
@@ -5104,6 +5126,17 @@
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/49290.html"
 	},
 	{
+		"song_title": "Mermaid festa vol.2 ～Passionate～",
+		"singer_name": "高坂穂乃果,星空凛",
+		"lyrics_composition_name": "畑亜貴,山崎真吾",
+		"find_char": "まーめいどふぇすたぼりゅーむつーぱっしょねいと\nラブライブ！\n楽曲\n \n Mermaid festa vol.2 ～Passionate～ \n 高坂穂乃果,星空凛 \n 畑亜貴,山崎真吾 \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/R0HTT4DwZX0&t=1080s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=Mermaid festa vol.2",
+		"sing_day": "26年09月19日",
+		"song_lyrics": "https://www.uta-net.com/song/161908/"
+	},
+	{
 		"song_title": "ミカイタクビート",
 		"singer_name": "初音ミク",
 		"lyrics_composition_name": "メドミア",
@@ -5525,11 +5558,11 @@
 		"song_title": "ゆめみるプリマドンナ",
 		"singer_name": "CUTIE STREET",
 		"lyrics_composition_name": "Orca,塩谷大貴",
-		"find_char": "ゆめみるぷりまどんな\n \n ゆめみるプリマドンナ \n CUTIE STREET \n Orca,塩谷大貴 \n ",
-		"sing_count": 5,
-		"sing_url": "https://youtu.be/zXqCNLXG2y8&t=7966s",
+		"find_char": "ゆめみるぷりまどんな\n \n ゆめみるプリマドンナ \n CUTIE STREET \n Orca,塩谷大貴 \n JOY",
+		"sing_count": 6,
+		"sing_url": "https://youtu.be/R0HTT4DwZX0&t=3147s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ゆめみるプリマドンナ",
-		"sing_day": "26年05月29日",
+		"sing_day": "26年09月19日",
 		"song_lyrics": "https://www.uta-net.com/song/387641/"
 	},
 	{
@@ -5921,11 +5954,11 @@
 		"song_title": "恋愛サーキュレーション",
 		"singer_name": "花澤香菜",
 		"lyrics_composition_name": "グミ,日向 めぐみ,meg rock,神前暁",
-		"find_char": "れんあいさーきゅれーしょん\n化物語\n千石撫子テーマソング\n \n 恋愛サーキュレーション \n 花澤香菜 \n グミ,日向 めぐみ,meg rock,神前暁 \n ",
-		"sing_count": 7,
-		"sing_url": "https://youtu.be/O2yS3hbMZ8g&t=2264s",
+		"find_char": "れんあいさーきゅれーしょん\n化物語\n千石撫子テーマソング\n \n 恋愛サーキュレーション \n 花澤香菜 \n グミ,日向 めぐみ,meg rock,神前暁 \n JOY",
+		"sing_count": 8,
+		"sing_url": "https://youtu.be/R0HTT4DwZX0&t=5455s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=恋愛サーキュレーション",
-		"sing_day": "26年06月08日",
+		"sing_day": "26年09月19日",
 		"song_lyrics": "https://www.uta-net.com/song/90291/"
 	},
 	{
@@ -6020,11 +6053,11 @@
 		"song_title": "わたしの一番かわいいところ",
 		"singer_name": "FRUITS ZIPPER",
 		"lyrics_composition_name": "ヤマモトショウ",
-		"find_char": "わたしのいちばんかわいいところ\n \n わたしの一番かわいいところ \n FRUITS ZIPPER \n ヤマモトショウ \n ",
-		"sing_count": 15,
-		"sing_url": "https://youtu.be/zXqCNLXG2y8&t=3276s",
+		"find_char": "わたしのいちばんかわいいところ\n \n わたしの一番かわいいところ \n FRUITS ZIPPER \n ヤマモトショウ \n JOY",
+		"sing_count": 16,
+		"sing_url": "https://youtu.be/R0HTT4DwZX0&t=7214s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=わたしの一番かわいいところ",
-		"sing_day": "26年05月29日",
+		"sing_day": "26年09月19日",
 		"song_lyrics": "https://www.uta-net.com/song/323011/"
 	},
 	{
