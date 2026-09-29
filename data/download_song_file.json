@@ -825,6 +825,28 @@
 		"song_lyrics": "https://www.uta-net.com/song/189313/"
 	},
 	{
+		"song_title": "エンパープル",
+		"singer_name": "朝比奈まふゆ,鏡音リン,宵崎奏,東雲絵名,暁山瑞希",
+		"lyrics_composition_name": "はるまきごはん",
+		"find_char": "えんぱーぷる\nプロジェクトセカイ カラフルステージ！ feat. 初音ミク プロセカ\n25時、ナイトコードで。 楽曲\n \n エンパープル \n 朝比奈まふゆ,鏡音リン,宵崎奏,東雲絵名,暁山瑞希 \n はるまきごはん \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/yAA6Nh2c5hE&t=3763s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=エンパープル",
+		"sing_day": "26年09月29日",
+		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/61747.html"
+	},
+	{
+		"song_title": "エンヴィーベイビー",
+		"singer_name": "GUMI",
+		"lyrics_composition_name": "Kanaria",
+		"find_char": "えんびぃーべいびー\n \n エンヴィーベイビー \n GUMI \n Kanaria \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/yAA6Nh2c5hE&t=1122s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=エンヴィーベイビー",
+		"sing_day": "26年09月29日",
+		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/43372.html"
+	},
+	{
 		"song_title": "エージェント夜を往く",
 		"singer_name": "菊地真",
 		"lyrics_composition_name": "LindaAI-CUE",
@@ -1192,10 +1214,10 @@
 		"singer_name": "初音ミク",
 		"lyrics_composition_name": "40㍍P,40mP,虎次朗,イナメトオル",
 		"find_char": "からくりぴえろ\n \n からくりピエロ \n 初音ミク \n 40㍍P,40mP,虎次朗,イナメトオル \n JOY",
-		"sing_count": 11,
-		"sing_url": "https://youtu.be/W2Smx-p4Zuo&t=7587s",
+		"sing_count": 12,
+		"sing_url": "https://youtu.be/yAA6Nh2c5hE&t=3307s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=からくりピエロ",
-		"sing_day": "26年08月07日",
+		"sing_day": "26年09月29日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/17230.html"
 	},
 	{
@@ -1379,10 +1401,10 @@
 		"singer_name": "初音ミク",
 		"lyrics_composition_name": "ツミキ",
 		"find_char": "きてぃ\nプロジェクトセカイ カラフルステージ！ feat. 初音ミク プロセカ\n25時、ナイトコードで。 楽曲\n \n キティ \n 初音ミク \n ツミキ \n JOY",
-		"sing_count": 1,
-		"sing_url": "https://youtu.be/oNSkesverQQ&t=1098s",
+		"sing_count": 2,
+		"sing_url": "https://youtu.be/yAA6Nh2c5hE&t=2384s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=キティ",
-		"sing_day": "26年08月28日",
+		"sing_day": "26年09月29日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/52534.html"
 	},
 	{
@@ -1859,6 +1881,17 @@
 		"song_lyrics": "https://www.uta-net.com/song/330858/"
 	},
 	{
+		"song_title": "恋は気まぐれイリュージョン！！",
+		"singer_name": "GUMI",
+		"lyrics_composition_name": "銀河方面P,TakaJ-Boy,神野貴志",
+		"find_char": "こいはきまぐれいりゅーじょん\n \n 恋は気まぐれイリュージョン！！ \n GUMI \n 銀河方面P,TakaJ-Boy,神野貴志 \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/yAA6Nh2c5hE&t=728s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=恋は気まぐれイリュージョン",
+		"sing_day": "26年09月29日",
+		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/21092.html"
+	},
+	{
 		"song_title": "(恋は)百年戦争",
 		"singer_name": "相対性理論",
 		"lyrics_composition_name": "永井聖一",
@@ -2244,6 +2277,17 @@
 		"song_lyrics": "NULL"
 	},
 	{
+		"song_title": "Shadow Shadow",
+		"singer_name": "flower",
+		"lyrics_composition_name": "Azari",
+		"find_char": "しゃどうしゃどう\n \n Shadow Shadow \n flower \n Azari \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/yAA6Nh2c5hE&t=2046s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=Shadow Shadow",
+		"sing_day": "26年09月29日",
+		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/45382.html"
+	},
+	{
 		"song_title": "シャルル",
 		"singer_name": "flower",
 		"lyrics_composition_name": "バルーン,須田景凪",
@@ -2358,10 +2402,10 @@
 		"singer_name": "初音ミク",
 		"lyrics_composition_name": "のぼる↑",
 		"find_char": "しろいゆきのぷりんせすは\n \n 白い雪のプリンセスは \n 初音ミク \n のぼる↑ \n JOY",
-		"sing_count": 45,
-		"sing_url": "https://youtu.be/aNYRvyK3NnM&t=5107s",
+		"sing_count": 46,
+		"sing_url": "https://youtu.be/yAA6Nh2c5hE&t=6334s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=白い雪のプリンセスは",
-		"sing_day": "26年08月26日",
+		"sing_day": "26年09月29日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/8828.html"
 	},
 	{
@@ -3501,11 +3545,11 @@
 		"song_title": "トリノコシティ",
 		"singer_name": "初音ミク",
 		"lyrics_composition_name": "40㍍P,40mP,虎次朗,イナメトオル",
-		"find_char": "とりのこしてぃ\n \n トリノコシティ \n 初音ミク \n 40㍍P,40mP,虎次朗,イナメトオル \n ",
-		"sing_count": 2,
-		"sing_url": "https://youtu.be/vzYa1EJ1qqA&t=3459s",
+		"find_char": "とりのこしてぃ\n \n トリノコシティ \n 初音ミク \n 40㍍P,40mP,虎次朗,イナメトオル \n JOY",
+		"sing_count": 3,
+		"sing_url": "https://youtu.be/yAA6Nh2c5hE&t=2861s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=トリノコシティ",
-		"sing_day": "26年02月04日",
+		"sing_day": "26年09月29日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/11134.html"
 	},
 	{
@@ -4398,6 +4442,17 @@
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=病名恋ワズライ",
 		"sing_day": "25年10月04日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/27764.html"
+	},
+	{
+		"song_title": "Beyond the way",
+		"singer_name": "初音ミク,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+		"lyrics_composition_name": "q*Left,Giga,ギガP",
+		"find_char": "びよんどざうぇい\nプロジェクトセカイ カラフルステージ！ feat. 初音ミク プロセカ\nVivid BAD SQUAD 楽曲\n \n Beyond the way \n 初音ミク,小豆沢こはね,白石杏,東雲彰人,青柳冬弥 \n q*Left,Giga,ギガP \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/yAA6Nh2c5hE&t=4354s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=Beyond the way",
+		"sing_day": "26年09月29日",
+		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/57653.html"
 	},
 	{
 		"song_title": "Believe(Folder5)",
@@ -6009,11 +6064,11 @@
 		"song_title": "ロミオとシンデレラ",
 		"singer_name": "初音ミク",
 		"lyrics_composition_name": "doriko,きりたんP",
-		"find_char": "ろみおとしんでれら\n \n ロミオとシンデレラ \n 初音ミク \n doriko,きりたんP \n ",
-		"sing_count": 5,
-		"sing_url": "https://youtu.be/ze6dQ83zNJE&t=8473s",
+		"find_char": "ろみおとしんでれら\n \n ロミオとシンデレラ \n 初音ミク \n doriko,きりたんP \n JOY",
+		"sing_count": 6,
+		"sing_url": "https://youtu.be/yAA6Nh2c5hE&t=1467s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ロミオとシンデレラ",
-		"sing_day": "26年04月25日",
+		"sing_day": "26年09月29日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/4804.html"
 	},
 	{

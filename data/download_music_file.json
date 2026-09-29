@@ -16247,5 +16247,80 @@
 				"url": "https://youtu.be/R0HTT4DwZX0&t=7214s"
 			}
 		]
+	},
+	{
+		"live_id": "L154",
+		"songs": [
+			{
+				"song_id": "S001",
+				"title": "恋は気まぐれイリュージョン！！",
+				"singer": "GUMI",
+				"lyrics_composition": "銀河方面P,TakaJ-Boy,神野貴志",
+				"url": "https://youtu.be/yAA6Nh2c5hE&t=728s"
+			},
+			{
+				"song_id": "S002",
+				"title": "エンヴィーベイビー",
+				"singer": "GUMI",
+				"lyrics_composition": "Kanaria",
+				"url": "https://youtu.be/yAA6Nh2c5hE&t=1122s"
+			},
+			{
+				"song_id": "S003",
+				"title": "ロミオとシンデレラ",
+				"singer": "初音ミク",
+				"lyrics_composition": "doriko,きりたんP",
+				"url": "https://youtu.be/yAA6Nh2c5hE&t=1467s"
+			},
+			{
+				"song_id": "S004",
+				"title": "Shadow Shadow",
+				"singer": "flower",
+				"lyrics_composition": "Azari",
+				"url": "https://youtu.be/yAA6Nh2c5hE&t=2046s"
+			},
+			{
+				"song_id": "S005",
+				"title": "キティ",
+				"singer": "初音ミク",
+				"lyrics_composition": "ツミキ",
+				"url": "https://youtu.be/yAA6Nh2c5hE&t=2384s"
+			},
+			{
+				"song_id": "S006",
+				"title": "トリノコシティ",
+				"singer": "初音ミク",
+				"lyrics_composition": "40㍍P,40mP,虎次朗,イナメトオル",
+				"url": "https://youtu.be/yAA6Nh2c5hE&t=2861s"
+			},
+			{
+				"song_id": "S007",
+				"title": "からくりピエロ",
+				"singer": "初音ミク",
+				"lyrics_composition": "40㍍P,40mP,虎次朗,イナメトオル",
+				"url": "https://youtu.be/yAA6Nh2c5hE&t=3307s"
+			},
+			{
+				"song_id": "S008",
+				"title": "エンパープル",
+				"singer": "朝比奈まふゆ,鏡音リン,宵崎奏,東雲絵名,暁山瑞希",
+				"lyrics_composition": "はるまきごはん",
+				"url": "https://youtu.be/yAA6Nh2c5hE&t=3763s"
+			},
+			{
+				"song_id": "S009",
+				"title": "Beyond the way",
+				"singer": "初音ミク,小豆沢こはね,白石杏,東雲彰人,青柳冬弥",
+				"lyrics_composition": "q*Left,Giga,ギガP",
+				"url": "https://youtu.be/yAA6Nh2c5hE&t=4354s"
+			},
+			{
+				"song_id": "S010",
+				"title": "白い雪のプリンセスは",
+				"singer": "初音ミク",
+				"lyrics_composition": "のぼる↑",
+				"url": "https://youtu.be/yAA6Nh2c5hE&t=6334s"
+			}
+		]
 	}
 ]
