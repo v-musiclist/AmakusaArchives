@@ -560,14 +560,14 @@
 				"song_id": "S006",
 				"title": "シャンティ",
 				"singer": "KAITO",
-				"lyrics_composition": "Wotaku",
+				"lyrics_composition": "wotaku",
 				"url": "https://youtu.be/CigVjtUw8Lo&t=4195s"
 			},
 			{
 				"song_id": "S007",
 				"title": "ジェヘナ",
 				"singer": "初音ミク",
-				"lyrics_composition": "Wotaku",
+				"lyrics_composition": "wotaku",
 				"url": "https://youtu.be/CigVjtUw8Lo&t=4666s"
 			},
 			{
@@ -977,7 +977,7 @@
 				"song_id": "S003",
 				"title": "シャンティ",
 				"singer": "KAITO",
-				"lyrics_composition": "Wotaku",
+				"lyrics_composition": "wotaku",
 				"url": "https://youtu.be/uN6N_UfuYak&t=985s"
 			},
 			{
@@ -2037,14 +2037,14 @@
 				"song_id": "S018",
 				"title": "DOGMA",
 				"singer": "初音ミク",
-				"lyrics_composition": "Wotaku",
+				"lyrics_composition": "wotaku",
 				"url": "https://youtu.be/_H2UsTb-8GE&t=7879s"
 			},
 			{
 				"song_id": "S019",
 				"title": "シャンティ",
 				"singer": "KAITO",
-				"lyrics_composition": "Wotaku",
+				"lyrics_composition": "wotaku",
 				"url": "https://youtu.be/_H2UsTb-8GE&t=8065s"
 			},
 			{
@@ -3004,7 +3004,7 @@
 				"song_id": "S002",
 				"title": "ジェヘナ",
 				"singer": "初音ミク",
-				"lyrics_composition": "Wotaku",
+				"lyrics_composition": "wotaku",
 				"url": "https://youtu.be/A4yrinnfFW4&t=3088s"
 			},
 			{
@@ -3437,7 +3437,7 @@
 				"song_id": "S011",
 				"title": "シャンティ",
 				"singer": "KAITO",
-				"lyrics_composition": "Wotaku",
+				"lyrics_composition": "wotaku",
 				"url": "https://youtu.be/3k3Yjl4jVtU&t=5013s"
 			},
 			{
@@ -4780,7 +4780,7 @@
 				"song_id": "S010",
 				"title": "ジェヘナ",
 				"singer": "初音ミク",
-				"lyrics_composition": "Wotaku",
+				"lyrics_composition": "wotaku",
 				"url": "https://youtu.be/W1h5L5g9PVs&t=5842s"
 			},
 			{
@@ -4815,7 +4815,7 @@
 				"song_id": "S015",
 				"title": "シャンティ",
 				"singer": "KAITO",
-				"lyrics_composition": "Wotaku",
+				"lyrics_composition": "wotaku",
 				"url": "https://youtu.be/W1h5L5g9PVs&t=9979s"
 			},
 			{
@@ -10755,7 +10755,7 @@
 				"song_id": "S003",
 				"title": "ジェヘナ",
 				"singer": "初音ミク",
-				"lyrics_composition": "Wotaku",
+				"lyrics_composition": "wotaku",
 				"url": "https://youtu.be/y7TexmwbRL8&t=1832s"
 			},
 			{
@@ -16374,6 +16374,39 @@
 				"singer": "ももいろクローバー",
 				"lyrics_composition": "村野直球,前山田健一,大隅知宇",
 				"url": "https://youtu.be/IBzVthsx06w&t=5240s"
+			}
+		]
+	},
+	{
+		"live_id": "L156",
+		"songs": [
+			{
+				"song_id": "S001",
+				"title": "トウキョウ・シャンディ・ランデヴ",
+				"singer": "花譜",
+				"lyrics_composition": "ツミキ",
+				"url": "https://youtu.be/k_ugbfQn7yE&t=190s"
+			},
+			{
+				"song_id": "S002",
+				"title": "Ｉなんです",
+				"singer": "東雲絵名,初音ミク,宵崎奏,朝比奈まふゆ,暁山瑞希",
+				"lyrics_composition": "れるりり,当社比P",
+				"url": "https://youtu.be/k_ugbfQn7yE&t=548s"
+			},
+			{
+				"song_id": "S003",
+				"title": "逆光",
+				"singer": "Ado",
+				"lyrics_composition": "Vaundy",
+				"url": "https://youtu.be/k_ugbfQn7yE&t=1005s"
+			},
+			{
+				"song_id": "S004",
+				"title": "Journey",
+				"singer": "初音ミク,星乃一歌,小倉唯,花里みのり,小豆沢こはね,天馬司,宵崎奏",
+				"lyrics_composition": "DECO*27",
+				"url": "https://youtu.be/k_ugbfQn7yE&t=1562s"
 			}
 		]
 	}

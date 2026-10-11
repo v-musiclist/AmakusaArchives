@@ -114,10 +114,21 @@
 		"singer_name": "東雲絵名,初音ミク,宵崎奏,朝比奈まふゆ,暁山瑞希",
 		"lyrics_composition_name": "れるりり,当社比P",
 		"find_char": "あいなんです\nプロジェクトセカイ カラフルステージ！ feat. 初音ミク プロセカ\n25時、ナイトコードで。 楽曲\n \n Iなんです \n 東雲絵名,初音ミク,宵崎奏,朝比奈まふゆ,暁山瑞希 \n れるりり,当社比P \n ",
-		"sing_count": 3,
-		"sing_url": "https://youtu.be/9XMb9bB0WyY&t=5510s",
+		"sing_count": 4,
+		"sing_url": "https://youtu.be/k_ugbfQn7yE&t=548s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=Ｉなんです",
-		"sing_day": "26年04月07日",
+		"sing_day": "26年10月11日",
+		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/50536.html"
+	},
+	{
+		"song_title": "Ｉなんです",
+		"singer_name": "東雲絵名,初音ミク,宵崎奏,朝比奈まふゆ,暁山瑞希",
+		"lyrics_composition_name": "れるりり,当社比P",
+		"find_char": "あいなんです\nプロジェクトセカイ カラフルステージ！ feat. 初音ミク プロセカ\n25時、ナイトコードで。 楽曲\n \n Ｉなんです \n 東雲絵名,初音ミク,宵崎奏,朝比奈まふゆ,暁山瑞希 \n れるりり,当社比P \n JOY",
+		"sing_count": 4,
+		"sing_url": "https://youtu.be/k_ugbfQn7yE&t=548s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=Ｉなんです",
+		"sing_day": "26年10月11日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/50536.html"
 	},
 	{
@@ -1617,6 +1628,17 @@
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/30435.html"
 	},
 	{
+		"song_title": "逆光",
+		"singer_name": "Ado",
+		"lyrics_composition_name": "Vaundy",
+		"find_char": "ぎゃっこう\nONE PIECE FILM RED\nワンピース\n劇中歌\n \n 逆光 \n Ado \n Vaundy \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/k_ugbfQn7yE&t=1005s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=逆光",
+		"sing_day": "26年10月11日",
+		"song_lyrics": "https://www.uta-net.com/song/321128/"
+	},
+	{
 		"song_title": "ギュッと",
 		"singer_name": "Little Glee Monster",
 		"lyrics_composition_name": "イワツボコーダイ,KOUDAI IWATSUBO,Koudai Iwatsubo",
@@ -2301,8 +2323,8 @@
 	{
 		"song_title": "シャンティ",
 		"singer_name": "KAITO",
-		"lyrics_composition_name": "Wotaku",
-		"find_char": "しゃんてぃ\n \n シャンティ \n KAITO \n Wotaku \n ",
+		"lyrics_composition_name": "wotaku",
+		"find_char": "しゃんてぃ\n \n シャンティ \n KAITO \n wotaku \n ",
 		"sing_count": 5,
 		"sing_url": "https://youtu.be/W1h5L5g9PVs&t=9979s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=シャンティ",
@@ -2455,8 +2477,8 @@
 	{
 		"song_title": "ジェヘナ",
 		"singer_name": "初音ミク",
-		"lyrics_composition_name": "Wotaku",
-		"find_char": "じぇへな\n \n ジェヘナ \n 初音ミク \n Wotaku \n ",
+		"lyrics_composition_name": "wotaku",
+		"find_char": "じぇへな\n \n ジェヘナ \n 初音ミク \n wotaku \n ",
 		"sing_count": 4,
 		"sing_url": "https://youtu.be/y7TexmwbRL8&t=1832s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ジェヘナ",
@@ -2511,11 +2533,11 @@
 		"song_title": "Journey",
 		"singer_name": "初音ミク,星乃一歌,小倉唯,花里みのり,小豆沢こはね,天馬司,宵崎奏",
 		"lyrics_composition_name": "DECO*27",
-		"find_char": "じゃーにー\nプロジェクトセカイ カラフルステージ！ feat. 初音ミク プロセカ\nプロセカ2周年アニバーサリーソング\n \n Journey \n 初音ミク,星乃一歌,小倉唯,花里みのり,小豆沢こはね,天馬司,宵崎奏 \n DECO*27 \n ",
-		"sing_count": 9,
-		"sing_url": "https://youtu.be/zx1LrOkk2mI&t=5775s",
+		"find_char": "じゃーにー\nプロジェクトセカイ カラフルステージ！ feat. 初音ミク プロセカ\nプロセカ2周年アニバーサリーソング\n \n Journey \n 初音ミク,星乃一歌,小倉唯,花里みのり,小豆沢こはね,天馬司,宵崎奏 \n DECO*27 \n JOY",
+		"sing_count": 10,
+		"sing_url": "https://youtu.be/k_ugbfQn7yE&t=1562s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=Journey",
-		"sing_day": "26年07月17日",
+		"sing_day": "26年10月11日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/49186.html"
 	},
 	{
@@ -3446,11 +3468,11 @@
 		"song_title": "トウキョウ・シャンディ・ランデヴ",
 		"singer_name": "花譜",
 		"lyrics_composition_name": "ツミキ",
-		"find_char": "とうきょうしゃんでぃらんでぶ\nMAISONdesの楽曲\nうる星やつら(2022年版)\nエンディングテーマ\n \n トウキョウ・シャンディ・ランデヴ \n 花譜 \n ツミキ \n ",
-		"sing_count": 18,
-		"sing_url": "https://youtu.be/V0O28J1zd9A&t=5380s",
+		"find_char": "とうきょうしゃんでぃらんでぶ\nMAISONdesの楽曲\nうる星やつら(2022年版)\nエンディングテーマ\n \n トウキョウ・シャンディ・ランデヴ \n 花譜 \n ツミキ \n JOY",
+		"sing_count": 19,
+		"sing_url": "https://youtu.be/k_ugbfQn7yE&t=190s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=トウキョウ・シャンディ・ランデヴ",
-		"sing_day": "26年06月26日",
+		"sing_day": "26年10月11日",
 		"song_lyrics": "https://www.uta-net.com/song/326610/"
 	},
 	{
@@ -3621,8 +3643,8 @@
 	{
 		"song_title": "DOGMA",
 		"singer_name": "初音ミク",
-		"lyrics_composition_name": "Wotaku",
-		"find_char": "どぐま\nシスター・クレア非公式イメージソング。\n後にシスター・クレアオリジナル曲としてカバー済\n \n DOGMA \n 初音ミク \n Wotaku \n ",
+		"lyrics_composition_name": "wotaku",
+		"find_char": "どぐま\nシスター・クレア非公式イメージソング。\n後にシスター・クレアオリジナル曲としてカバー済\n \n DOGMA \n 初音ミク \n wotaku \n ",
 		"sing_count": 1,
 		"sing_url": "https://youtu.be/_H2UsTb-8GE&t=7879s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=DOGMA",
