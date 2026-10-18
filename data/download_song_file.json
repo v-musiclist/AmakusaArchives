@@ -345,10 +345,10 @@
 		"singer_name": "天草フラン.酔眠はやね",
 		"lyrics_composition_name": "てとてと",
 		"find_char": "あなたをこんせるぶぇ\nVocaDuo2023投稿曲\nボカデュオ2023 team かふぷす\n \n あなたをコンセルヴェ \n 天草フラン.酔眠はやね \n てとてと \n ",
-		"sing_count": 0,
-		"sing_url": "null",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/Co-CFLI3wE8&t=5569s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=あなたをコンセルヴェ",
-		"sing_day": "70年01月01日",
+		"sing_day": "26年10月18日",
 		"song_lyrics": "NULL"
 	},
 	{
@@ -3498,6 +3498,17 @@
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/35654.html"
 	},
 	{
+		"song_title": "デビルじゃないもん",
+		"singer_name": "初音ミク",
+		"lyrics_composition_name": "DECO*27,ピノキオピー,ピノキオP",
+		"find_char": "でびるじゃないもん\n \n デビルじゃないもん \n 初音ミク \n DECO*27,ピノキオピー,ピノキオP \n ",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/Co-CFLI3wE8&t=1749s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=デビルじゃないもん",
+		"sing_day": "26年10月18日",
+		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/50920.html"
+	},
+	{
 		"song_title": "Delicious Delivery",
 		"singer_name": "神谷幸広,東雲荘一郎,アスラン＝ベルゼビュートⅡ世,卯月巻緒,水嶋咲",
 		"lyrics_composition_name": "松井洋平,三好啓太",
@@ -4063,10 +4074,10 @@
 		"singer_name": "鏡音リン",
 		"lyrics_composition_name": "Junky",
 		"find_char": "はっぴーはろうぃん\n \n Happy Halloween \n 鏡音リン \n Junky \n ",
-		"sing_count": 3,
-		"sing_url": "https://youtu.be/AkyRK0OWg84&t=950s",
+		"sing_count": 4,
+		"sing_url": "https://youtu.be/Co-CFLI3wE8&t=4542s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=Happy Halloween",
-		"sing_day": "25年10月25日",
+		"sing_day": "26年10月18日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/30513.html"
 	},
 	{
@@ -4327,10 +4338,10 @@
 		"singer_name": "初音ミク",
 		"lyrics_composition_name": "DECO*27",
 		"find_char": "ばんぱいあ\n \n ヴァンパイア \n 初音ミク \n DECO*27 \n ",
-		"sing_count": 1,
-		"sing_url": "https://youtu.be/9XMb9bB0WyY&t=1547s",
+		"sing_count": 2,
+		"sing_url": "https://youtu.be/Co-CFLI3wE8&t=625s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ヴァンパイア",
-		"sing_day": "26年04月07日",
+		"sing_day": "26年10月18日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/43512.html"
 	},
 	{
@@ -5526,10 +5537,10 @@
 		"singer_name": "初音ミク",
 		"lyrics_composition_name": "DECO*27",
 		"find_char": "もうそうかんしょうだいしょうれんめい\n \n 妄想感傷代償連盟 \n 初音ミク \n DECO*27 \n ",
-		"sing_count": 3,
-		"sing_url": "https://youtu.be/43NSqGWHAjI&t=14833s",
+		"sing_count": 4,
+		"sing_url": "https://youtu.be/Co-CFLI3wE8&t=2714s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=妄想感傷代償連盟",
-		"sing_day": "26年03月05日",
+		"sing_day": "26年10月18日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/35504.html"
 	},
 	{
@@ -5834,10 +5845,10 @@
 		"singer_name": "GUMI",
 		"lyrics_composition_name": "DECO*27",
 		"find_char": "よわむしもんぶらん\n \n 弱虫モンブラン \n GUMI \n DECO*27 \n ",
-		"sing_count": 4,
-		"sing_url": "https://youtu.be/1nmssJQhqi8&t=20714s",
+		"sing_count": 5,
+		"sing_url": "https://youtu.be/Co-CFLI3wE8&t=1096s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=弱虫モンブラン",
-		"sing_day": "26年03月01日",
+		"sing_day": "26年10月18日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/9644.html"
 	},
 	{
@@ -5911,10 +5922,10 @@
 		"singer_name": "鏡音レン",
 		"lyrics_composition_name": "すりぃ",
 		"find_char": "らびぃ\n#コンパス 戦闘摂理解析システム\nラヴィ・シュシュマルシュ テーマソング\n \n ラヴィ \n 鏡音レン \n すりぃ \n JOY",
-		"sing_count": 7,
-		"sing_url": "https://youtu.be/4jKQnKWu1wI&t=4540s",
+		"sing_count": 8,
+		"sing_url": "https://youtu.be/Co-CFLI3wE8&t=3561s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ラヴィ",
-		"sing_day": "26年08月19日",
+		"sing_day": "26年10月18日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/50195.html"
 	},
 	{
