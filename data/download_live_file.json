@@ -1270,5 +1270,21 @@
 		"live_text": "【 歌枠 / karaoke 】Glrassyのあきうた💠🥂🍀【 #天草フラン / #酔眠はやね 】",
 		"live_joy": false,
 		"live_image": "https://i.ytimg.com/vi/Co-CFLI3wE8/hq720.jpg"
+	},
+	{
+		"live_id": "L160",
+		"url": "https://youtu.be/dYtxadYnKkQ",
+		"live_setting": "通常",
+		"live_text": "【 歌枠 / karaoke 】初見さん5名様にであいたい👑🎶｜あなたに見つけてほしい💟聴き専さん大歓迎【 #天草フラン / vtuber 】",
+		"live_joy": true,
+		"live_image": "https://i.ytimg.com/vi/dYtxadYnKkQ/hq720.jpg"
+	},
+	{
+		"live_id": "L161",
+		"url": "https://youtu.be/MkOxC6O4A04",
+		"live_setting": "通常",
+		"live_text": "【 歌枠 / karaoke 】懐メロ歌枠🎶あなたと一緒に過ごせたら嬉しいな🫶【 #天草フラン / vtuber 】",
+		"live_joy": true,
+		"live_image": "https://i.ytimg.com/vi/MkOxC6O4A04/hq720.jpg"
 	}
 ]
