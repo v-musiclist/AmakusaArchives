@@ -16627,5 +16627,101 @@
 				"url": "https://youtu.be/Co-CFLI3wE8&t=5569s"
 			}
 		]
+	},
+	{
+		"live_id": "L160",
+		"songs": [
+			{
+				"song_id": "S001",
+				"title": "らびゅ らびゅ",
+				"singer": "パーキッツ",
+				"lyrics_composition": "ふじのマナミ,片岡嗣実",
+				"url": "https://youtu.be/dYtxadYnKkQ&t=729s"
+			},
+			{
+				"song_id": "S002",
+				"title": "孤独の宗教",
+				"singer": "初音ミク",
+				"lyrics_composition": "syudou",
+				"url": "https://youtu.be/dYtxadYnKkQ&t=1136s"
+			},
+			{
+				"song_id": "S003",
+				"title": "カトラリー",
+				"singer": "初音ミク",
+				"lyrics_composition": "有機酸,神山羊",
+				"url": "https://youtu.be/dYtxadYnKkQ&t=1444s"
+			},
+			{
+				"song_id": "S004",
+				"title": "For You",
+				"singer": "AZU",
+				"lyrics_composition": "AZU,菜穂,h-wonder",
+				"url": "https://youtu.be/dYtxadYnKkQ&t=1757s"
+			},
+			{
+				"song_id": "S005",
+				"title": "プロローグ",
+				"singer": "Uru",
+				"lyrics_composition": "Uru",
+				"url": "https://youtu.be/dYtxadYnKkQ&t=2144s"
+			},
+			{
+				"song_id": "S006",
+				"title": "ひまわりの約束",
+				"singer": "秦基博",
+				"lyrics_composition": "秦基博",
+				"url": "https://youtu.be/dYtxadYnKkQ&t=2634s"
+			},
+			{
+				"song_id": "S007",
+				"title": "Squall",
+				"singer": "松本英子",
+				"lyrics_composition": "福山雅治",
+				"url": "https://youtu.be/dYtxadYnKkQ&t=3255s"
+			},
+			{
+				"song_id": "S008",
+				"title": "はぐ",
+				"singer": "日野森雫,鏡音レン,花里みのり,桃井愛莉,桐谷遥",
+				"lyrics_composition": "MIMI",
+				"url": "https://youtu.be/dYtxadYnKkQ&t=3914s"
+			},
+			{
+				"song_id": "S009",
+				"title": "アイロニ",
+				"singer": "初音ミク",
+				"lyrics_composition": "すこっぷ",
+				"url": "https://youtu.be/dYtxadYnKkQ&t=4327s"
+			},
+			{
+				"song_id": "S010",
+				"title": "you",
+				"singer": "癒月",
+				"lyrics_composition": "癒月,dai",
+				"url": "https://youtu.be/dYtxadYnKkQ&t=4749s"
+			},
+			{
+				"song_id": "S011",
+				"title": "ハロ／ハワユ",
+				"singer": "初音ミク",
+				"lyrics_composition": "ナノウ,月面,コヤマヒデカズ",
+				"url": "https://youtu.be/dYtxadYnKkQ&t=5323s"
+			},
+			{
+				"song_id": "S012",
+				"title": "奏",
+				"singer": "スキマスイッチ",
+				"lyrics_composition": "スキマスイッチ",
+				"url": "https://youtu.be/dYtxadYnKkQ&t=5881s"
+			},
+			{
+				"song_id": "S013",
+				"title": "ももいろの鍵",
+				"singer": "桃井愛莉,日野森雫,巡音ルカ,花里みのり,桐谷遥",
+				"lyrics_composition": "いよわ",
+				"url": "https://youtu.be/dYtxadYnKkQ&t=6675s"
+			}
+		]
 	}
 ]
