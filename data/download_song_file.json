@@ -246,10 +246,10 @@
 		"singer_name": "松田聖子",
 		"lyrics_composition_name": "三浦徳子,小田裕一郎",
 		"find_char": "あおいさんごしょう\n \n 青い珊瑚礁 \n 松田聖子 \n 三浦徳子,小田裕一郎 \n JOY",
-		"sing_count": 2,
-		"sing_url": "https://youtu.be/fn_iZlf-KDc&t=4557s",
+		"sing_count": 3,
+		"sing_url": "https://youtu.be/MkOxC6O4A04&t=6936s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=青い珊瑚礁",
-		"sing_day": "26年08月17日",
+		"sing_day": "26年10月24日",
 		"song_lyrics": "https://www.uta-net.com/song/170/"
 	},
 	{
@@ -267,11 +267,11 @@
 		"song_title": "赤いスイートピー",
 		"singer_name": "松田聖子",
 		"lyrics_composition_name": "松本隆,呉田軽穂",
-		"find_char": "あかいすいーとぴー\n \n 赤いスイートピー \n 松田聖子 \n 松本隆,呉田軽穂 \n ",
-		"sing_count": 2,
-		"sing_url": "https://youtu.be/hjbvHyNoCyQ&t=732s",
+		"find_char": "あかいすいーとぴー\n \n 赤いスイートピー \n 松田聖子 \n 松本隆,呉田軽穂 \n JOY",
+		"sing_count": 3,
+		"sing_url": "https://youtu.be/MkOxC6O4A04&t=4847s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=赤いスイートピー",
-		"sing_day": "25年04月13日",
+		"sing_day": "26年10月24日",
 		"song_lyrics": "https://www.uta-net.com/song/188/"
 	},
 	{
@@ -372,6 +372,17 @@
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=あの夢をなぞって",
 		"sing_day": "26年07月24日",
 		"song_lyrics": "https://www.uta-net.com/song/284749/"
+	},
+	{
+		"song_title": "亜麻色の髪の乙女",
+		"singer_name": "ヴィレッジ・シンガーズ",
+		"lyrics_composition_name": "橋本淳,すぎやまこういち",
+		"find_char": "あまいろのかみのおとめ\n \n 亜麻色の髪の乙女 \n ヴィレッジ・シンガーズ \n 橋本淳,すぎやまこういち \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/MkOxC6O4A04&t=5633s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=亜麻色の髪の乙女",
+		"sing_day": "26年10月24日",
+		"song_lyrics": "https://www.uta-net.com/song/349/"
 	},
 	{
 		"song_title": "雨とペトラ",
@@ -1170,10 +1181,10 @@
 		"singer_name": "斉藤由貴",
 		"lyrics_composition_name": "森雪之丞,玉置浩二",
 		"find_char": "かなしみよこんにちは\nめぞん一刻\nオープニングテーマ\n \n 悲しみよこんにちは \n 斉藤由貴 \n 森雪之丞,玉置浩二 \n JOY",
-		"sing_count": 3,
-		"sing_url": "https://youtu.be/aNYRvyK3NnM&t=1353s",
+		"sing_count": 4,
+		"sing_url": "https://youtu.be/MkOxC6O4A04&t=540s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=悲しみよこんにちは",
-		"sing_day": "26年08月26日",
+		"sing_day": "26年10月24日",
 		"song_lyrics": "https://www.uta-net.com/song/1355/"
 	},
 	{
@@ -3058,6 +3069,17 @@
 		"song_lyrics": "https://www.uta-net.com/song/288086/"
 	},
 	{
+		"song_title": "Diamonds",
+		"singer_name": "PRINCESS PRINCESS",
+		"lyrics_composition_name": "中山加奈子,奥居香",
+		"find_char": "だいあもんど\n \n Diamonds \n PRINCESS PRINCESS \n 中山加奈子,奥居香 \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/MkOxC6O4A04&t=2803s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=Diamonds",
+		"sing_day": "26年10月24日",
+		"song_lyrics": "https://www.uta-net.com/song/2899/"
+	},
+	{
 		"song_title": "Diaryはフォルテシモ",
 		"singer_name": "琴吹紬",
 		"lyrics_composition_name": "大森祥子,川口進",
@@ -3133,6 +3155,17 @@
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ダブルラリアット",
 		"sing_day": "26年05月21日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/4162.html"
+	},
+	{
+		"song_title": "Dancing Star",
+		"singer_name": "小林泉美",
+		"lyrics_composition_name": "伊藤アキラ,小林泉美",
+		"find_char": "だんしんぐすたー\nうる星やつら(1981年)\nオープニングテーマ\n検索用:うる星やつらのテーマ\n \n Dancing Star \n 小林泉美 \n 伊藤アキラ,小林泉美 \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/MkOxC6O4A04&t=4175s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=Dancing Star",
+		"sing_day": "26年10月24日",
+		"song_lyrics": "https://www.uta-net.com/song/14556/"
 	},
 	{
 		"song_title": "Dancing stars on me!",
@@ -3518,6 +3551,17 @@
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=Delicious Delivery",
 		"sing_day": "26年01月31日",
 		"song_lyrics": "https://www.uta-net.com/song/293187/"
+	},
+	{
+		"song_title": "TOMORROW",
+		"singer_name": "岡本真夜",
+		"lyrics_composition_name": "岡本真夜,真名杏樹",
+		"find_char": "とぅもろー\nセカンド・チャンス 主題歌\n \n TOMORROW \n 岡本真夜 \n 岡本真夜,真名杏樹 \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/MkOxC6O4A04&t=1496s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=TOMORROW",
+		"sing_day": "26年10月24日",
+		"song_lyrics": "https://www.uta-net.com/song/8500/"
 	},
 	{
 		"song_title": "東京サマーセッション",
@@ -5225,6 +5269,17 @@
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/24813.html"
 	},
 	{
+		"song_title": "負けないで",
+		"singer_name": "ZARD",
+		"lyrics_composition_name": "坂井泉水,織田哲郎",
+		"find_char": "まけないで\n \n 負けないで \n ZARD \n 坂井泉水,織田哲郎 \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/MkOxC6O4A04&t=1947s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=負けないで",
+		"sing_day": "26年10月24日",
+		"song_lyrics": "https://www.uta-net.com/song/4238/"
+	},
+	{
 		"song_title": "マシュマリー",
 		"singer_name": "初音ミク",
 		"lyrics_composition_name": "MIMI",
@@ -5427,10 +5482,10 @@
 		"singer_name": "大槻マキ,大槻真希",
 		"lyrics_composition_name": "大槻マキ,大槻真希,森純太",
 		"find_char": "めもりーず\nONE PIECE ワンピース\nエンディングテーマ\n \n memories \n 大槻マキ,大槻真希 \n 大槻マキ,大槻真希,森純太 \n JOY",
-		"sing_count": 2,
-		"sing_url": "https://youtu.be/IBzVthsx06w&t=1715s",
+		"sing_count": 3,
+		"sing_url": "https://youtu.be/MkOxC6O4A04&t=3410s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=memories",
-		"sing_day": "26年10月10日",
+		"sing_day": "26年10月24日",
 		"song_lyrics": "https://www.uta-net.com/song/68124/"
 	},
 	{
@@ -5564,6 +5619,17 @@
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=妄想税",
 		"sing_day": "24年01月13日",
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/26641.html"
+	},
+	{
+		"song_title": "もう泣かないで",
+		"singer_name": "瀬能あづさ",
+		"lyrics_composition_name": "三浦徳子,羽田一郎",
+		"find_char": "もうなかないで\nらんま1/2熱闘編\nオープニングテーマ\n \n もう泣かないで \n 瀬能あづさ \n 三浦徳子,羽田一郎 \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/MkOxC6O4A04&t=1103s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=もう泣かないで",
+		"sing_day": "26年10月24日",
+		"song_lyrics": "https://www.uta-net.com/song/5422/"
 	},
 	{
 		"song_title": "モエチャッカファイア",
@@ -5995,6 +6061,17 @@
 		"song_lyrics": "https://www.uta-net.com/song/369160/"
 	},
 	{
+		"song_title": "LOVEマシーン",
+		"singer_name": "モーニング娘。",
+		"lyrics_composition_name": "つんく",
+		"find_char": "らぶましーん\n \n LOVEマシーン \n モーニング娘。 \n つんく \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/MkOxC6O4A04&t=6170s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=LOVEマシーン",
+		"sing_day": "26年10月24日",
+		"song_lyrics": "https://www.uta-net.com/song/12080/"
+	},
+	{
 		"song_title": "Love marginal",
 		"singer_name": "高坂穂乃果,南ことり,小泉花陽",
 		"lyrics_composition_name": "畑亜貴,藤末樹",
@@ -6213,6 +6290,17 @@
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ロッタラ ロッタラ",
 		"sing_day": "26年07月15日",
 		"song_lyrics": "https://www.uta-net.com/song/72582/"
+	},
+	{
+		"song_title": "ロマンティックあげるよ",
+		"singer_name": "橋本潮",
+		"lyrics_composition_name": "吉田健美,いけたけし",
+		"find_char": "ろまんてぃっくあげるよ\nドラゴンボール\nエンディングテーマ\n \n ロマンティックあげるよ \n 橋本潮 \n 吉田健美,いけたけし \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/MkOxC6O4A04&t=2370s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ロマンティックあげるよ",
+		"sing_day": "26年10月24日",
+		"song_lyrics": "https://www.uta-net.com/song/39510/"
 	},
 	{
 		"song_title": "ロミオとシンデレラ",

@@ -16723,5 +16723,94 @@
 				"url": "https://youtu.be/dYtxadYnKkQ&t=6675s"
 			}
 		]
+	},
+	{
+		"live_id": "L161",
+		"songs": [
+			{
+				"song_id": "S001",
+				"title": "悲しみよこんにちは",
+				"singer": "斉藤由貴",
+				"lyrics_composition": "森雪之丞,玉置浩二",
+				"url": "https://youtu.be/MkOxC6O4A04&t=540s"
+			},
+			{
+				"song_id": "S002",
+				"title": "もう泣かないで",
+				"singer": "瀬能あづさ",
+				"lyrics_composition": "三浦徳子,羽田一郎",
+				"url": "https://youtu.be/MkOxC6O4A04&t=1103s"
+			},
+			{
+				"song_id": "S003",
+				"title": "TOMORROW",
+				"singer": "岡本真夜",
+				"lyrics_composition": "岡本真夜,真名杏樹",
+				"url": "https://youtu.be/MkOxC6O4A04&t=1496s"
+			},
+			{
+				"song_id": "S004",
+				"title": "負けないで",
+				"singer": "ZARD",
+				"lyrics_composition": "坂井泉水,織田哲郎",
+				"url": "https://youtu.be/MkOxC6O4A04&t=1947s"
+			},
+			{
+				"song_id": "S005",
+				"title": "ロマンティックあげるよ",
+				"singer": "橋本潮",
+				"lyrics_composition": "吉田健美,いけたけし",
+				"url": "https://youtu.be/MkOxC6O4A04&t=2370s"
+			},
+			{
+				"song_id": "S006",
+				"title": "Diamonds",
+				"singer": "PRINCESS PRINCESS",
+				"lyrics_composition": "中山加奈子,奥居香",
+				"url": "https://youtu.be/MkOxC6O4A04&t=2803s"
+			},
+			{
+				"song_id": "S007",
+				"title": "memories",
+				"singer": "大槻マキ,大槻真希",
+				"lyrics_composition": "大槻マキ,大槻真希,森純太",
+				"url": "https://youtu.be/MkOxC6O4A04&t=3410s"
+			},
+			{
+				"song_id": "S008",
+				"title": "Dancing Star",
+				"singer": "小林泉美",
+				"lyrics_composition": "伊藤アキラ,小林泉美",
+				"url": "https://youtu.be/MkOxC6O4A04&t=4175s"
+			},
+			{
+				"song_id": "S009",
+				"title": "赤いスイートピー",
+				"singer": "松田聖子",
+				"lyrics_composition": "松本隆,呉田軽穂",
+				"url": "https://youtu.be/MkOxC6O4A04&t=4847s"
+			},
+			{
+				"song_id": "S010",
+				"title": "亜麻色の髪の乙女",
+				"singer": "ヴィレッジ・シンガーズ",
+				"lyrics_composition": "橋本淳,すぎやまこういち",
+				"url": "https://youtu.be/MkOxC6O4A04&t=5633s"
+			},
+			{
+				"song_id": "S011",
+				"title": "LOVEマシーン",
+				"singer": "モーニング娘。",
+				"lyrics_composition": "つんく",
+				"url": "https://youtu.be/MkOxC6O4A04&t=6170s"
+			},
+			{
+				"song_id": "S012",
+				"title": "青い珊瑚礁",
+				"singer": "松田聖子",
+				"lyrics_composition": "三浦徳子,小田裕一郎",
+				"url": "https://youtu.be/MkOxC6O4A04&t=6936s"
+			}
+		]
 	}
 ]
