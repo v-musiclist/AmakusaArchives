@@ -19317,5 +19317,82 @@
 				"exception_joy": false
 			}
 		]
+	},
+	{
+		"live_id": "L164",
+		"songs": [
+			{
+				"song_id": "S001",
+				"title": "雨とペトラ",
+				"singer": "flower",
+				"lyrics_composition": "バルーン,須田景凪",
+				"url": "https://youtu.be/CzD3tsCTtyk&t=462s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S002",
+				"title": "I Amai Me Mind",
+				"singer": "CUTIE STREET",
+				"lyrics_composition": "ウエノトモコ,蒔田貴幸",
+				"url": "https://youtu.be/CzD3tsCTtyk&t=1004s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S003",
+				"title": "needLe",
+				"singer": "初音ミク,星乃一歌,天馬咲希,望月穂波,日野森志歩",
+				"lyrics_composition": "DECO*27",
+				"url": "https://youtu.be/CzD3tsCTtyk&t=1670s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S004",
+				"title": "TOMORROW",
+				"singer": "岡本真夜",
+				"lyrics_composition": "岡本真夜,真名杏樹",
+				"url": "https://youtu.be/CzD3tsCTtyk&t=2064s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S005",
+				"title": "すいみん不足",
+				"singer": "CHICKS",
+				"lyrics_composition": "CHICKS",
+				"url": "https://youtu.be/CzD3tsCTtyk&t=2671s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S006",
+				"title": "オレンジ",
+				"singer": "Lil'B",
+				"lyrics_composition": "AILA,MIE,黒光雄輝",
+				"url": "https://youtu.be/CzD3tsCTtyk&t=3201s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S007",
+				"title": "Rivals!",
+				"singer": "有栖川帝統,観音坂独歩",
+				"lyrics_composition": "ビッケブランカ",
+				"url": "https://youtu.be/CzD3tsCTtyk&t=3864s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S008",
+				"title": "RUN THIS CITY",
+				"singer": "山田一郎,山田二郎,山田三郎",
+				"lyrics_composition": "好良瓶太郎,月蝕會議",
+				"url": "https://youtu.be/CzD3tsCTtyk&t=4493s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S009",
+				"title": "ちきゅーめいくあっぷ計画",
+				"singer": "CUTIE STREET",
+				"lyrics_composition": "ありぼぼ",
+				"url": "https://youtu.be/CzD3tsCTtyk&t=5227s",
+				"exception_joy": false
+			}
+		]
 	}
 ]
