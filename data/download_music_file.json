@@ -19511,5 +19511,98 @@
 				"exception_joy": false
 			}
 		]
+	},
+	{
+		"live_id": "L166",
+		"songs": [
+			{
+				"song_id": "S001",
+				"title": "青い珊瑚礁",
+				"singer": "松田聖子",
+				"lyrics_composition": "三浦徳子,小田裕一郎",
+				"url": "https://youtu.be/anFiYLTQ_mg&t=427s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S002",
+				"title": "恋愛サーキュレーション",
+				"singer": "花澤香菜",
+				"lyrics_composition": "グミ,日向 めぐみ,meg rock,神前暁",
+				"url": "https://youtu.be/anFiYLTQ_mg&t=785s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S003",
+				"title": "らびゅ らびゅ",
+				"singer": "パーキッツ",
+				"lyrics_composition": "ふじのマナミ,片岡嗣実",
+				"url": "https://youtu.be/anFiYLTQ_mg&t=1198s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S004",
+				"title": "Dancing Star",
+				"singer": "小林泉美",
+				"lyrics_composition": "伊藤アキラ,小林泉美",
+				"url": "https://youtu.be/anFiYLTQ_mg&t=1672s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S005",
+				"title": "きみにとどけ",
+				"singer": "谷澤智文,タニザワ トモフミ",
+				"lyrics_composition": "谷澤智文,タニザワ トモフミ",
+				"url": "https://youtu.be/anFiYLTQ_mg&t=2042s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S006",
+				"title": "遠く遠く",
+				"singer": "槇原敬之",
+				"lyrics_composition": "槇原敬之",
+				"url": "https://youtu.be/anFiYLTQ_mg&t=2495s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S007",
+				"title": "ダダダダ天使",
+				"singer": "ナナヲアカリ",
+				"lyrics_composition": "ナユタン星人,ナユタセイジ",
+				"url": "https://youtu.be/anFiYLTQ_mg&t=2930s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S008",
+				"title": "Happy Halloween",
+				"singer": "鏡音リン",
+				"lyrics_composition": "Junky",
+				"url": "https://youtu.be/anFiYLTQ_mg&t=3321s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S009",
+				"title": "fancy baby doll",
+				"singer": "田村ゆかり",
+				"lyrics_composition": "三井ゆきこ,太田雅友",
+				"url": "https://youtu.be/anFiYLTQ_mg&t=3694s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S010",
+				"title": "じゃじゃ馬にさせないで",
+				"singer": "西尾えつ子",
+				"lyrics_composition": "森雪之丞,村松邦男",
+				"url": "https://youtu.be/anFiYLTQ_mg&t=4059s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S011",
+				"title": "愛してるばんざーい!",
+				"singer": "μ's",
+				"lyrics_composition": "畑亜貴,山田高弘",
+				"url": "https://youtu.be/anFiYLTQ_mg&t=4544s",
+				"exception_joy": false
+			}
+		]
 	}
 ]
