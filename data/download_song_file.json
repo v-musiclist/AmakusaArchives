@@ -297,6 +297,17 @@
 		"song_lyrics": "https://www.uta-net.com/song/79563/"
 	},
 	{
+		"song_title": "*〜アスタリスク〜",
+		"singer_name": "ORANGE RANGE",
+		"lyrics_composition_name": "ORANGE RANGE",
+		"find_char": "あすたりすく\nBLEACH ブリーチ 鰤\nオープニングテーマ\n \n *〜アスタリスク〜 \n ORANGE RANGE \n ORANGE RANGE \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/Oibkk1CZJGM&t=512s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=アスタリスク",
+		"sing_day": "26年11月13日",
+		"song_lyrics": "https://www.uta-net.com/song/25408/"
+	},
+	{
 		"song_title": "明日の私に幸あれ",
 		"singer_name": "ナナヲアカリ",
 		"lyrics_composition_name": "玉屋2060%,ナナヲアカリ",
@@ -432,11 +443,11 @@
 		"song_title": "ALONES",
 		"singer_name": "Aqua Timez",
 		"lyrics_composition_name": "太志",
-		"find_char": "あろーんず\nBLEACH ブリーチ 鰤\nオープニングテーマ\n \n ALONES \n Aqua Timez \n 太志 \n ",
-		"sing_count": 1,
-		"sing_url": "https://youtu.be/r9cYD2bOCnU&t=4312s",
+		"find_char": "あろーんず\nBLEACH ブリーチ 鰤\nオープニングテーマ\n \n ALONES \n Aqua Timez \n 太志 \n JOY",
+		"sing_count": 2,
+		"sing_url": "https://youtu.be/Oibkk1CZJGM&t=2137s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ALONES",
-		"sing_day": "26年04月18日",
+		"sing_day": "26年11月13日",
 		"song_lyrics": "https://www.uta-net.com/song/55567/"
 	},
 	{
@@ -587,10 +598,10 @@
 		"singer_name": "HIGH and MIGHTY COLOR",
 		"lyrics_composition_name": "HIGH and MIGHTY COLOR",
 		"find_char": "いちりんのはな\nBLEACH ブリーチ 鰤\nオープニングテーマ\n \n 一輪の花 \n HIGH and MIGHTY COLOR \n HIGH and MIGHTY COLOR \n JOY",
-		"sing_count": 1,
-		"sing_url": "https://youtu.be/Z8snzvcnT7U&t=4510s",
+		"sing_count": 2,
+		"sing_url": "https://youtu.be/Oibkk1CZJGM&t=1001s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=一輪の花",
-		"sing_day": "26年10月26日",
+		"sing_day": "26年11月13日",
 		"song_lyrics": "https://www.uta-net.com/song/36527/"
 	},
 	{
@@ -1694,6 +1705,17 @@
 		"song_lyrics": "https://www.uta-net.com/song/321128/"
 	},
 	{
+		"song_title": "ギャロップ",
+		"singer_name": "pe'zmoku",
+		"lyrics_composition_name": "suzumoku,Ohyama\"B.M.W.\"Wataru",
+		"find_char": "ぎゃろっぷ\nBLEACH ブリーチ 鰤\nエンディングテーマ\n \n ギャロップ \n pe'zmoku \n suzumoku,Ohyama\"B.M.W.\"Wataru \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/Oibkk1CZJGM&t=5607s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ギャロップ",
+		"sing_day": "26年11月13日",
+		"song_lyrics": "https://www.uta-net.com/song/69325/"
+	},
+	{
 		"song_title": "ギュッと",
 		"singer_name": "Little Glee Monster",
 		"lyrics_composition_name": "イワツボコーダイ,KOUDAI IWATSUBO,Koudai Iwatsubo",
@@ -2101,6 +2123,17 @@
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/21112.html"
 	},
 	{
+		"song_title": "今宵、月が見えずとも",
+		"singer_name": "ポルノグラフィティ",
+		"lyrics_composition_name": "新藤晴一,岡野昭仁",
+		"find_char": "こよいつきがみえずとも\n劇場版BLEACH Fade to Black 君の名を呼ぶ ブリーチ 鰤\n主題歌\n \n 今宵、月が見えずとも \n ポルノグラフィティ \n 新藤晴一,岡野昭仁 \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/Oibkk1CZJGM&t=6596s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=今宵、月が見えずとも",
+		"sing_day": "26年11月13日",
+		"song_lyrics": "https://www.uta-net.com/song/73923/"
+	},
+	{
 		"song_title": "混沌ブギ",
 		"singer_name": "初音ミク",
 		"lyrics_composition_name": "jon,jon-YAKITORY",
@@ -2198,6 +2231,17 @@
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=桜キッス",
 		"sing_day": "26年08月04日",
 		"song_lyrics": "https://www.uta-net.com/song/38163/"
+	},
+	{
+		"song_title": "桜日和",
+		"singer_name": "星村麻衣",
+		"lyrics_composition_name": "星村麻衣",
+		"find_char": "さくらびより\nBLEACH ブリーチ 鰤\nエンディングテーマ\n \n 桜日和 \n 星村麻衣 \n 星村麻衣 \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/Oibkk1CZJGM&t=5150s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=桜日和",
+		"sing_day": "26年11月13日",
+		"song_lyrics": "https://www.uta-net.com/song/52233/"
 	},
 	{
 		"song_title": "桜ロック",
@@ -2446,10 +2490,10 @@
 		"singer_name": "SCANDAL",
 		"lyrics_composition_name": "TOMOMI,田鹿祐一",
 		"find_char": "しょうじょえす\nBLEACH ブリーチ 鰤\nオープニングテーマ\n \n 少女S \n SCANDAL \n TOMOMI,田鹿祐一 \n JOY",
-		"sing_count": 3,
-		"sing_url": "https://youtu.be/oNSkesverQQ&t=4441s",
+		"sing_count": 4,
+		"sing_url": "https://youtu.be/Oibkk1CZJGM&t=3276s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=少女S",
-		"sing_day": "26年08月28日",
+		"sing_day": "26年11月13日",
 		"song_lyrics": "https://www.uta-net.com/song/80446/"
 	},
 	{
@@ -3325,11 +3369,11 @@
 		"song_title": "chAngE",
 		"singer_name": "miwa",
 		"lyrics_composition_name": "miwa",
-		"find_char": "ちぇんじ\nBLEACH ブリーチ 鰤\nオープニングテーマ\n \n chAngE \n miwa \n miwa \n ",
-		"sing_count": 5,
-		"sing_url": "https://youtu.be/1fC28h1Lchc&t=6954s",
+		"find_char": "ちぇんじ\nBLEACH ブリーチ 鰤\nオープニングテーマ\n \n chAngE \n miwa \n miwa \n JOY",
+		"sing_count": 6,
+		"sing_url": "https://youtu.be/Oibkk1CZJGM&t=3748s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=chAngE",
-		"sing_day": "26年08月04日",
+		"sing_day": "26年11月13日",
 		"song_lyrics": "https://www.uta-net.com/song/99347/"
 	},
 	{
@@ -3386,6 +3430,17 @@
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=CHOOSE ME!!",
 		"sing_day": "70年01月01日",
 		"song_lyrics": "NULL"
+	},
+	{
+		"song_title": "CHU-BURA",
+		"singer_name": "KELUN",
+		"lyrics_composition_name": "Ryosuke Kojima,jam,KELUN",
+		"find_char": "ちゅーぶら\nBLEACH ブリーチ 鰤\nオープニングテーマ\n \n CHU-BURA \n KELUN \n Ryosuke Kojima,jam,KELUN \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/Oibkk1CZJGM&t=2786s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=CHU-BURA",
+		"sing_day": "26年11月13日",
+		"song_lyrics": "https://www.uta-net.com/song/66467/"
 	},
 	{
 		"song_title": "チューリングラブ",
@@ -4249,11 +4304,11 @@
 		"song_title": "HANABI",
 		"singer_name": "いきものがかり",
 		"lyrics_composition_name": "水野良樹",
-		"find_char": "はなび\nBLEACH ブリーチ 鰤\nエンディングテーマ\n \n HANABI \n いきものがかり \n 水野良樹 \n ",
-		"sing_count": 2,
-		"sing_url": "https://youtu.be/otsF_oVWVM0&t=14051s",
+		"find_char": "はなび\nBLEACH ブリーチ 鰤\nエンディングテーマ\n \n HANABI \n いきものがかり \n 水野良樹 \n JOY",
+		"sing_count": 3,
+		"sing_url": "https://youtu.be/Oibkk1CZJGM&t=4715s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=HANABI",
-		"sing_day": "26年07月24日",
+		"sing_day": "26年11月13日",
 		"song_lyrics": "https://www.uta-net.com/song/42168/"
 	},
 	{
@@ -4525,10 +4580,10 @@
 		"singer_name": "ステレオポニー",
 		"lyrics_composition_name": "AIMI",
 		"find_char": "ひとひらのはなびら\nBLEACH ブリーチ 鰤\nエンディングテーマ\n \n ヒトヒラのハナビラ \n ステレオポニー \n AIMI \n JOY",
-		"sing_count": 2,
-		"sing_url": "https://youtu.be/_nb8IBLDAgc&t=3294s",
+		"sing_count": 3,
+		"sing_url": "https://youtu.be/Oibkk1CZJGM&t=6212s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ヒトヒラのハナビラ",
-		"sing_day": "26年08月31日",
+		"sing_day": "26年11月13日",
 		"song_lyrics": "https://www.uta-net.com/song/72450/"
 	},
 	{
@@ -5151,11 +5206,11 @@
 		"song_title": "ほうき星",
 		"singer_name": "ユンナ",
 		"lyrics_composition_name": "佐藤永麻,田中直",
-		"find_char": "ほうき星\nBLEACH ブリーチ 鰤\nエンディングテーマ\n \n ほうき星 \n ユンナ \n 佐藤永麻,田中直 \n ",
-		"sing_count": 4,
-		"sing_url": "https://youtu.be/kjYzSPCmtWs&t=5803s",
+		"find_char": "ほうき星\nBLEACH ブリーチ 鰤\nエンディングテーマ\n \n ほうき星 \n ユンナ \n 佐藤永麻,田中直 \n JOY",
+		"sing_count": 5,
+		"sing_url": "https://youtu.be/Oibkk1CZJGM&t=4159s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=ほうき星",
-		"sing_day": "26年07月15日",
+		"sing_day": "26年11月13日",
 		"song_lyrics": "https://www.uta-net.com/song/26558/"
 	},
 	{
@@ -6083,6 +6138,17 @@
 		"song_lyrics": "https://w.atwiki.jp/hmiku/pages/39227.html"
 	},
 	{
+		"song_title": "螺旋",
+		"singer_name": "9Lana",
+		"lyrics_composition_name": "SAS,LOAR,Sho",
+		"find_char": "らせん\nBLEACH 千年血戦篇 ブリーチ 鰤\nエンディングテーマ\n \n 螺旋 \n 9Lana \n SAS,LOAR,Sho \n JOY",
+		"sing_count": 1,
+		"sing_url": "https://youtu.be/Oibkk1CZJGM&t=7423s",
+		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=螺旋",
+		"sing_day": "26年11月13日",
+		"song_lyrics": "https://www.uta-net.com/song/399316/"
+	},
+	{
 		"song_title": "ラッキーカラー",
 		"singer_name": "夏色花梨",
 		"lyrics_composition_name": "めろくる",
@@ -6427,11 +6493,11 @@
 		"song_title": "Rolling star",
 		"singer_name": "YUI",
 		"lyrics_composition_name": "YUI",
-		"find_char": "ろーりんぐすたー\nBLEACH ブリーチ 鰤\nオープニングテーマ\n \n Rolling star \n YUI \n YUI \n ",
-		"sing_count": 10,
-		"sing_url": "https://youtu.be/1fC28h1Lchc&t=6331s",
+		"find_char": "ろーりんぐすたー\nBLEACH ブリーチ 鰤\nオープニングテーマ\n \n Rolling star \n YUI \n YUI \n JOY",
+		"sing_count": 11,
+		"sing_url": "https://youtu.be/Oibkk1CZJGM&t=1689s",
 		"used_find_song": "https://www.youtube.com/@uta-cha-oh/search?query=Rolling star",
-		"sing_day": "26年08月04日",
+		"sing_day": "26年11月13日",
 		"song_lyrics": "https://www.uta-net.com/song/48790/"
 	},
 	{
