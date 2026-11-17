@@ -1322,7 +1322,7 @@
 	{
 		"live_id": "L166",
 		"url": "https://youtu.be/anFiYLTQ_mg",
-		"live_setting": "通常",
+		"live_setting": "非公開",
 		"live_text": "【 歌枠 / karaoke 】新衣装で初めての歌枠🤍可愛いるーむうぇあ🫐🍪【 #天草フラン / vtuber 】",
 		"live_joy": true,
 		"live_image": "https://i.ytimg.com/vi/anFiYLTQ_mg/hq720.jpg"
@@ -1334,5 +1334,21 @@
 		"live_text": "【 歌枠 / karaoke 】卍解──！BLEACH歌枠🧡平成アニソン好き集合😻【 #天草フラン / vtuber 】",
 		"live_joy": true,
 		"live_image": "https://i.ytimg.com/vi/Oibkk1CZJGM/hq720.jpg"
+	},
+	{
+		"live_id": "L168",
+		"url": "https://youtu.be/mecaQHLMVak",
+		"live_setting": "通常",
+		"live_text": "【 歌枠 / karaoke 】初見さん5名様にであいたい👑🎶｜あなたに見つけて欲しい💟聴き専さん大歓迎【 #天草フラン / vtuber 】",
+		"live_joy": true,
+		"live_image": "https://i.ytimg.com/vi/mecaQHLMVak/hq720.jpg"
+	},
+	{
+		"live_id": "L169",
+		"url": "https://youtu.be/Se2kwNyKFUc",
+		"live_setting": "通常",
+		"live_text": "【 歌枠 / karaoke 】一緒に過ごしませんか？ 初見さんもお気軽にどうぞ！🍪【 #天草フラン / vtuber 】",
+		"live_joy": true,
+		"live_image": "https://i.ytimg.com/vi/Se2kwNyKFUc/hq720.jpg"
 	}
 ]
