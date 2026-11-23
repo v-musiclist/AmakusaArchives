@@ -19721,5 +19721,98 @@
 				"exception_joy": false
 			}
 		]
+	},
+	{
+		"live_id": "L168",
+		"songs": [
+			{
+				"song_id": "S001",
+				"title": "again",
+				"singer": "YUI",
+				"lyrics_composition": "YUI",
+				"url": "https://youtu.be/Se2kwNyKFUc&t=246s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S002",
+				"title": "消せない罪",
+				"singer": "北出菜奈",
+				"lyrics_composition": "北出菜奈,西川進",
+				"url": "https://youtu.be/Se2kwNyKFUc&t=663s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S003",
+				"title": "BEFORE DAWN",
+				"singer": "AI-SACHI",
+				"lyrics_composition": "さとうみかこ,佐藤宣彦",
+				"url": "https://youtu.be/Se2kwNyKFUc&t=1164s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S004",
+				"title": "私は最強",
+				"singer": "Ado",
+				"lyrics_composition": "大森元貴",
+				"url": "https://youtu.be/Se2kwNyKFUc&t=1535s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S005",
+				"title": "新時代",
+				"singer": "Ado",
+				"lyrics_composition": "中田ヤスタカ",
+				"url": "https://youtu.be/Se2kwNyKFUc&t=2106s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S006",
+				"title": "PAPERMOON",
+				"singer": "Tommy heavenly6",
+				"lyrics_composition": "Tommy heavenly6,Chiffon Brownie",
+				"url": "https://youtu.be/Se2kwNyKFUc&t=2600s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S007",
+				"title": "革命道中",
+				"singer": "アイナ・ジ・エンド",
+				"lyrics_composition": "アイナ・ジ・エンド,Shin Sakiura",
+				"url": "https://youtu.be/Se2kwNyKFUc&t=3199s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S008",
+				"title": "逆光",
+				"singer": "Ado",
+				"lyrics_composition": "Vaundy",
+				"url": "https://youtu.be/Se2kwNyKFUc&t=3794s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S009",
+				"title": "BON VOYAGE!",
+				"singer": "Bon-Bon Blanco",
+				"lyrics_composition": "佐々木美和,大島こうすけ",
+				"url": "https://youtu.be/Se2kwNyKFUc&t=4510s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S010",
+				"title": "解",
+				"singer": "CUTIE STREET",
+				"lyrics_composition": "YUNOSY",
+				"url": "https://youtu.be/Se2kwNyKFUc&t=5033s",
+				"exception_joy": false
+			},
+			{
+				"song_id": "S011",
+				"title": "ゆめみるプリマドンナ",
+				"singer": "CUTIE STREET",
+				"lyrics_composition": "Orca,塩谷大貴",
+				"url": "https://youtu.be/Se2kwNyKFUc&t=6504s",
+				"exception_joy": false
+			}
+		]
 	}
 ]

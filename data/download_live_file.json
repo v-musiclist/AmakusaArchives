@@ -1337,18 +1337,18 @@
 	},
 	{
 		"live_id": "L168",
-		"url": "https://youtu.be/mecaQHLMVak",
-		"live_setting": "通常",
-		"live_text": "【 歌枠 / karaoke 】初見さん5名様にであいたい👑🎶｜あなたに見つけて欲しい💟聴き専さん大歓迎【 #天草フラン / vtuber 】",
-		"live_joy": true,
-		"live_image": "https://i.ytimg.com/vi/mecaQHLMVak/hq720.jpg"
-	},
-	{
-		"live_id": "L169",
 		"url": "https://youtu.be/Se2kwNyKFUc",
 		"live_setting": "通常",
 		"live_text": "【 歌枠 / karaoke 】一緒に過ごしませんか？ 初見さんもお気軽にどうぞ！🍪【 #天草フラン / vtuber 】",
 		"live_joy": true,
 		"live_image": "https://i.ytimg.com/vi/Se2kwNyKFUc/hq720.jpg"
+	},
+	{
+		"live_id": "L169",
+		"url": "https://youtu.be/EHmCzMwhgbM",
+		"live_setting": "通常",
+		"live_text": "【 歌枠 / karaoke 】初見さん5名様にであいたい👑🎶｜あなたに見つけて欲しい💟聴き専さん大歓迎【 #天草フラン / vtuber 】",
+		"live_joy": true,
+		"live_image": "https://i.ytimg.com/vi/EHmCzMwhgbM/hq720.jpg"
 	}
 ]
